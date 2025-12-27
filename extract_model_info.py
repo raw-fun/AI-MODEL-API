@@ -2,6 +2,9 @@
 """
 Script to extract AI model information from source text file and convert to YAML format.
 Extracts: AI model name, Token limit, and Model link
+
+Note: Some models may have multiple identifiers/aliases listed in a single entry.
+These are preserved as-is from the source file.
 """
 
 import re
@@ -75,9 +78,10 @@ def parse_model_data(filename):
                 else:
                     model_card_link = model_card_line
             
-            # Only add models with valid data and skip image/video/speech models section
+            # Only add models with valid data
             if developer and token_limit and model_id:
-                # Check if this is a text model (has numeric token limit)
+                # Filter to only include models with numeric token limits (text models)
+                # This excludes image/video/speech models which typically don't have token limits
                 if isinstance(token_limit, int) or (isinstance(token_limit, str) and token_limit.replace(',', '').isdigit()):
                     model_info = {
                         'AI_model': model_id,
