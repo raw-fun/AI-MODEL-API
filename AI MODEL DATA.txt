@@ -1,0 +1,3751 @@
+Text Models (LLM)
+
+Model ID + API Reference link
+
+Developer
+
+Context
+
+Model Card
+
+[gpt-3.5-turbo](https://docs.aimlapi.com/api-references/text-models-llm/openai/gpt-3.5-turbo)
+
+Open AI
+
+16,000
+
+[Chat GPT 3.5 Turbo](https://aimlapi.com/models/chat-gpt-3-5)
+
+[gpt-3.5-turbo-0125](https://docs.aimlapi.com/api-references/text-models-llm/openai/gpt-3.5-turbo)
+
+Open AI
+
+16,000
+
+[Chat GPT-3.5 Turbo 0125](https://aimlapi.com/models/chat-gpt-3-5-turbo-0125)
+
+[gpt-3.5-turbo-1106](https://docs.aimlapi.com/api-references/text-models-llm/openai/gpt-3.5-turbo)
+
+Open AI
+
+16,000
+
+[Chat GPT-3.5 Turbo 1106](https://aimlapi.com/models/chat-gpt-3-5-turbo-1106)
+
+[gpt-4o](https://docs.aimlapi.com/api-references/text-models-llm/openai/gpt-4o)
+
+Open AI
+
+128,000
+
+[Chat GPT-4o](https://aimlapi.com/models/chat-gpt-4-omni)
+
+[gpt-4o-2024-08-06](https://docs.aimlapi.com/api-references/text-models-llm/openai/gpt-4o)
+
+Open AI
+
+128,000
+
+[GPT-4o-2024-08-06](https://aimlapi.com/models/gpt-4o-2024-08-06-api)
+
+[gpt-4o-2024-05-13](https://docs.aimlapi.com/api-references/text-models-llm/openai/gpt-4o)
+
+Open AI
+
+128,000
+
+[GPT-4o-2024-05-13](https://aimlapi.com/models/gpt-4o-2024-05-13-api)
+
+[gpt-4o-mini](https://docs.aimlapi.com/api-references/text-models-llm/openai/gpt-4o-mini)
+
+Open AI
+
+128,000
+
+[Chat GPT 4o mini](https://aimlapi.com/models/chat-gpt-4o-mini)
+
+[gpt-4o-mini-2024-07-18](https://docs.aimlapi.com/api-references/text-models-llm/openai/gpt-4o-mini)
+
+Open AI
+
+128,000
+
+[GPT 4o mini](https://aimlapi.com/models/chat-gpt-4o-mini)
+
+[chatgpt-4o-latest](https://docs.aimlapi.com/api-references/text-models-llm/openai/gpt-4o)
+
+Open AI
+
+128,000
+
+-
+
+[gpt-4o-audio-preview](https://docs.aimlapi.com/api-references/text-models-llm/openai/gpt-4o-audio-preview)
+
+Open AI
+
+128,000
+
+[GPT-4o Audio Preview](https://aimlapi.com/models/gpt-4o-audio-preview-api)
+
+[gpt-4o-mini-audio-preview](https://docs.aimlapi.com/api-references/text-models-llm/openai/gpt-4o-mini-audio-preview)
+
+Open AI
+
+128,000
+
+[GPT-4o mini Audio](https://aimlapi.com/models/gpt-4o-mini-audio-api)
+
+[gpt-4o-search-preview](https://docs.aimlapi.com/api-references/text-models-llm/openai/gpt-4o-search-preview)
+
+Open AI
+
+128,000
+
+[GPT-4o Search Preview](https://aimlapi.com/models/gpt-4o-search-preview-api)
+
+[gpt-4o-mini-search-preview](https://docs.aimlapi.com/api-references/text-models-llm/openai/gpt-4o-mini-search-preview)
+
+Open AI
+
+128,000
+
+[GPT-4o Mini Search Preview](https://aimlapi.com/models/gpt-4o-mini-search-preview-api)
+
+[gpt-4-turbo](https://docs.aimlapi.com/api-references/text-models-llm/openai/gpt-4-turbo)
+
+Open AI
+
+128,000
+
+[Chat GPT 4 Turbo](https://aimlapi.com/models/chat-gpt-4-turbo)
+
+[gpt-4-turbo-2024-04-09](https://docs.aimlapi.com/api-references/text-models-llm/openai/gpt-4-turbo)
+
+Open AI
+
+128,000
+
+-
+
+[gpt-4](https://docs.aimlapi.com/api-references/text-models-llm/openai/gpt-4)
+
+Open AI
+
+8,000
+
+[Chat GPT 4](https://aimlapi.com/models/chat-gpt-4)
+
+[gpt-4-0125-preview](https://docs.aimlapi.com/api-references/text-models-llm/openai/gpt-4-preview)
+
+Open AI
+
+8,000
+
+-
+
+[gpt-4-1106-preview](https://docs.aimlapi.com/api-references/text-models-llm/openai/gpt-4-preview)
+
+Open AI
+
+8,000
+
+-
+
+[o1](https://docs.aimlapi.com/api-references/text-models-llm/openai/o1)
+
+Open AI
+
+200,000
+
+[OpenAI o1](https://aimlapi.com/models/openai-o1-api)
+
+[openai/o3-2025-04-16](https://docs.aimlapi.com/api-references/text-models-llm/openai/o3)
+
+Open AI
+
+200,000
+
+[o3](https://aimlapi.com/models/o3)
+
+[o3-mini](https://docs.aimlapi.com/api-references/text-models-llm/openai/o3-mini)
+
+Open AI
+
+200,000
+
+[OpenAI o3 mini](https://aimlapi.com/models/openai-o3-mini-api)
+
+[openai/o3-pro](https://docs.aimlapi.com/api-references/text-models-llm/openai/o3-pro)
+
+Open AI
+
+200,000
+
+[o3-pro](https://aimlapi.com/models/o3-pro)
+
+[openai/gpt-4.1-2025-04-14](https://docs.aimlapi.com/api-references/text-models-llm/openai/gpt-4.1)
+
+Open AI
+
+1,000,000
+
+[GPT-4.1](https://aimlapi.com/models/gpt-4-1)
+
+[openai/gpt-4.1-mini-2025-04-14](https://docs.aimlapi.com/api-references/text-models-llm/openai/gpt-4.1-mini)
+
+Open AI
+
+1,000,000
+
+[GPT-4.1 Mini](https://aimlapi.com/models/gpt-4-1-mini-api)
+
+[openai/gpt-4.1-nano-2025-04-14](https://docs.aimlapi.com/api-references/text-models-llm/openai/gpt-4.1-nano)
+
+Open AI
+
+1,000,000
+
+[GPT-4.1 Nano](https://aimlapi.com/models/gpt-4-1-nano-api)
+
+[openai/o4-mini-2025-04-16](https://docs.aimlapi.com/api-references/text-models-llm/openai/o4-mini)
+
+Open AI
+
+200,000
+
+[GPT-o4-mini-2025-04-16](https://aimlapi.com/models/gpt-o4-mini-2025-04-16)
+
+[openai/gpt-oss-20b](https://docs.aimlapi.com/api-references/text-models-llm/openai/gpt-oss-20b)
+
+Open AI
+
+128,000
+
+[GPT OSS 20B](https://aimlapi.com/models/gpt-oss-20b)
+
+[openai/gpt-oss-120b](https://docs.aimlapi.com/api-references/text-models-llm/openai/gpt-oss-120b)
+
+Open AI
+
+128,000
+
+[GPT OSS 120B](https://aimlapi.com/models/gpt-oss-120b)
+
+[openai/gpt-5-2025-08-07](https://docs.aimlapi.com/api-references/text-models-llm/openai/gpt-5)
+
+Open AI
+
+400,000
+
+[GPT-5](https://aimlapi.com/models/gpt-5)
+
+[openai/gpt-5-mini-2025-08-07](https://docs.aimlapi.com/api-references/text-models-llm/openai/gpt-5-mini)
+
+Open AI
+
+400,000
+
+[GPT-5 Mini](https://aimlapi.com/models/gpt-5-mini)
+
+[openai/gpt-5-nano-2025-08-07](https://docs.aimlapi.com/api-references/text-models-llm/openai/gpt-5-nano)
+
+Open AI
+
+400,000
+
+[GPT-5 Nano](https://aimlapi.com/models/gpt-5-nano)
+
+[openai/gpt-5-chat-latest](https://docs.aimlapi.com/api-references/text-models-llm/openai/gpt-5-chat)
+
+Open AI
+
+400,000
+
+[GPT-5 Chat](https://aimlapi.com/models/gpt-5-chat)
+
+[openai/gpt-5-1](https://docs.aimlapi.com/api-references/text-models-llm/openai/gpt-5-1)
+
+Open AI
+
+128,000
+
+[GPT-5.1](https://aimlapi.com/models/gpt-5-1)
+
+[openai/gpt-5-1-chat-latest](https://docs.aimlapi.com/api-references/text-models-llm/openai/gpt-5-1-chat-latest)
+
+Open AI
+
+128,000
+
+[GPT-5.1 Chat Latest](https://aimlapi.com/models/gpt-5-1-chat-latest)
+
+[openai/gpt-5-1-codex](https://docs.aimlapi.com/api-references/text-models-llm/openai/gpt-5-1-codex)
+
+Open AI
+
+400,000
+
+[GPT-5.1 Codex](https://aimlapi.com/models/gpt-5-1-codex)
+
+[openai/gpt-5-1-codex-mini](https://docs.aimlapi.com/api-references/text-models-llm/openai/gpt-5-1-codex-mini)
+
+Open AI
+
+400,000
+
+[GPT-5.1 Codex Mini](https://aimlapi.com/models/gpt-5-1-codex-mini)
+
+[openai/gpt-5-2](https://docs.aimlapi.com/api-references/text-models-llm/openai/gpt-5.2)
+
+Open AI
+
+400,000
+
+[GPT-5.2](https://aimlapi.com/models/gpt-5-2)
+
+[openai/gpt-5-2-chat-latest](https://docs.aimlapi.com/api-references/text-models-llm/openai/gpt-5.2-chat-latest)
+
+Open AI
+
+400,000
+
+_Coming Soon_
+
+[openai/gpt-5-2-pro](https://docs.aimlapi.com/api-references/text-models-llm/openai/gpt-5.2-pro)
+
+Open AI
+
+400,000
+
+_Coming Soon_
+
+[claude-3-opus-20240229](https://docs.aimlapi.com/api-references/text-models-llm/anthropic/claude-3-opus)
+
+Anthropic
+
+200,000
+
+[Claude 3 Opus](https://aimlapi.com/models/claude-3-opus)
+
+[claude-3-haiku-20240307](https://docs.aimlapi.com/api-references/text-models-llm/anthropic/claude-3-haiku)
+
+Anthropic
+
+200,000
+
+-
+
+[claude-3-5-haiku-20241022](https://docs.aimlapi.com/api-references/text-models-llm/anthropic/claude-3.5-haiku)
+
+Anthropic
+
+200,000
+
+-
+
+[claude-3-7-sonnet-20250219](https://docs.aimlapi.com/api-references/text-models-llm/anthropic/claude-3.7-sonnet)
+
+Anthropic
+
+200,000
+
+[Claude 3.7 Sonnet](https://aimlapi.com/models/claude-3-7-sonnet-api)
+
+[anthropic/claude-opus-4](https://docs.aimlapi.com/api-references/text-models-llm/anthropic/claude-4-opus)
+
+Anthropic
+
+200,000
+
+[Claude 4 Opus](https://aimlapi.com/models/claude-4-opus)
+
+[anthropic/claude-opus-4.1 claude-opus-4-1 claude-opus-4-1-20250805](https://docs.aimlapi.com/api-references/text-models-llm/anthropic/claude-opus-4.1)
+
+Anthropic
+
+200,000
+
+[Claude Opus 4.1](https://aimlapi.com/models/claude-opus-4-1)
+
+[anthropic/claude-sonnet-4](https://docs.aimlapi.com/api-references/text-models-llm/anthropic/claude-4-sonnet)
+
+Anthropic
+
+200,000
+
+[Claude 4 Sonnet](https://aimlapi.com/models/claude-4-sonnet)
+
+[claude-sonnet-4-5-20250929](https://docs.aimlapi.com/api-references/text-models-llm/anthropic/claude-4-5-sonnet)
+
+[anthropic/claude-sonnet-4.5](https://docs.aimlapi.com/api-references/text-models-llm/anthropic/claude-4-5-sonnet)
+
+[claude-sonnet-4-5](https://docs.aimlapi.com/api-references/text-models-llm/anthropic/claude-4-5-sonnet)
+
+Anthropic
+
+200,000
+
+[Claude 4.5 Sonnet](https://aimlapi.com/models/claude-4-5-sonnet)
+
+[anthropic/claude-haiku-4.5](https://docs.aimlapi.com/api-references/text-models-llm/anthropic/claude-4.5-haiku)[claude-haiku-4-5](https://docs.aimlapi.com/api-references/text-models-llm/anthropic/claude-4.5-haiku)
+
+[claude-haiku-4-5-20251001](https://docs.aimlapi.com/api-references/text-models-llm/anthropic/claude-4.5-haiku)
+
+Anthropic
+
+200,000
+
+[Claude 4.5 Haiku](https://aimlapi.com/models/claude-4-5-haiku)
+
+[anthropic/claude-opus-4-5 claude-opus-4-5 claude-opus-4-5-20251101](https://docs.aimlapi.com/api-references/text-models-llm/anthropic/claude-4.5-opus)
+
+Anthropic
+
+200,000
+
+_Coming Soon_
+
+[Qwen/Qwen2.5-7B-Instruct-Turbo](https://docs.aimlapi.com/api-references/text-models-llm/alibaba-cloud/qwen2.5-7b-instruct-turbo)
+
+Alibaba Cloud
+
+32,000
+
+[Qwen 2.5 7B Instruct Turbo](https://aimlapi.com/models/qwen-2-5-7b-instruct-api)
+
+[qwen-max](https://docs.aimlapi.com/api-references/text-models-llm/alibaba-cloud/qwen-max)
+
+Alibaba Cloud
+
+32,000
+
+[Qwen Max](https://aimlapi.com/models/qwen-max-api)
+
+[qwen-max-2025-01-25](https://docs.aimlapi.com/api-references/text-models-llm/alibaba-cloud/qwen-max)
+
+Alibaba Cloud
+
+32,000
+
+[Qwen Max 2025-01-25](https://aimlapi.com/models/qwen-max-2025-01-25-api)
+
+[qwen-plus](https://docs.aimlapi.com/api-references/text-models-llm/alibaba-cloud/qwen-plus)
+
+Alibaba Cloud
+
+131,000
+
+[Qwen Plus](https://aimlapi.com/models/qwen-plus-api)
+
+[qwen-turbo](https://docs.aimlapi.com/api-references/text-models-llm/alibaba-cloud/qwen-turbo)
+
+Alibaba Cloud
+
+1,000,000
+
+[Qwen Turbo](https://aimlapi.com/models/qwen-turbo-api)
+
+[Qwen/Qwen2.5-72B-Instruct-Turbo](https://docs.aimlapi.com/api-references/text-models-llm/alibaba-cloud/qwen2.5-72b-instruct-turbo)
+
+Alibaba Cloud
+
+32,000
+
+[Qwen 2.5 72B Instruct Turbo](https://aimlapi.com/models/qwen-2-5-72b-instruct-turbo)
+
+[Qwen/Qwen3-235B-A22B-fp8-tput](https://docs.aimlapi.com/api-references/text-models-llm/alibaba-cloud/qwen3-235b-a22b)
+
+Alibaba Cloud
+
+32,000
+
+[Qwen 3 235B A22B](https://aimlapi.com/models/qwen-3-235b-a22b-api)
+
+[alibaba/qwen3-32b](https://docs.aimlapi.com/api-references/text-models-llm/alibaba-cloud/qwen3-32b)
+
+Alibaba Cloud
+
+131,000
+
+[Qwen3-32B](https://aimlapi.com/models/qwen3-32b)
+
+[alibaba/qwen3-coder-480b-a35b-instruct](https://docs.aimlapi.com/api-references/text-models-llm/alibaba-cloud/qwen3-coder-480b-a35b-instruct)
+
+Alibaba Cloud
+
+262,000
+
+[Qwen3 Coder](https://aimlapi.com/models/qwen3-coder-480b-a35b-instruct)
+
+[alibaba/qwen3-235b-a22b-thinking-2507](https://docs.aimlapi.com/api-references/text-models-llm/alibaba-cloud/qwen3-235b-a22b-thinking-2507)
+
+Alibaba Cloud
+
+262,000
+
+[Qwen3 235B A22B Thinking](https://aimlapi.com/models/qwen3-235b-a22b)
+
+[alibaba/qwen3-next-80b-a3b-instruct](https://docs.aimlapi.com/api-references/text-models-llm/alibaba-cloud/qwen3-next-80b-a3b-instruct)
+
+Alibaba Cloud
+
+262,000
+
+[Qwen3-Next-80B-A3B Instruct](https://aimlapi.com/models/qwen3-next-80b-a3b-instruct)
+
+[alibaba/qwen3-next-80b-a3b-thinking](https://docs.aimlapi.com/api-references/text-models-llm/alibaba-cloud/qwen3-next-80b-a3b-thinking)
+
+Alibaba Cloud
+
+262,000
+
+[Qwen3-Next-80B-A3B Thinking](https://aimlapi.com/models/qwen3-next-80b-a3b-thinking)
+
+[alibaba/qwen3-max-preview](https://docs.aimlapi.com/api-references/text-models-llm/alibaba-cloud/qwen3-max-preview)
+
+Alibaba Cloud
+
+258,000
+
+[Qwen3-Max Preview](https://docs.aimlapi.com/api-references/text-models-llm/alibaba-cloud/qwen3-max-preview)
+
+[alibaba/qwen3-max-instruct](https://docs.aimlapi.com/api-references/text-models-llm/alibaba-cloud/qwen3-max-instruct)
+
+Alibaba Cloud
+
+262,000
+
+[Qwen3-Max Instruct](https://docs.aimlapi.com/api-references/text-models-llm/alibaba-cloud/qwen3-max-instruct)
+
+[qwen3-omni-30b-a3b-captioner](https://docs.aimlapi.com/api-references/text-models-llm/alibaba-cloud/qwen3-omni-30b-a3b-captioner)
+
+Alibaba Cloud
+
+65,000
+
+[qwen3-omni-30b-a3b-captioner](https://docs.aimlapi.com/api-references/text-models-llm/alibaba-cloud/qwen3-omni-30b-a3b-captioner)
+
+[alibaba/qwen3-vl-32b-instruct](https://docs.aimlapi.com/api-references/text-models-llm/alibaba-cloud/qwen3-vl-32b-instruct)
+
+Alibaba Cloud
+
+126,000
+
+[Qwen3 VL 32B Instruct](https://aimlapi.com/models/qwen3-vl-32b-instruct)
+
+[alibaba/qwen3-vl-32b-thinking](https://docs.aimlapi.com/api-references/text-models-llm/alibaba-cloud/qwen3-vl-32b-thinking)
+
+Alibaba Cloud
+
+126,000
+
+[Qwen3 VL 32B Thinking](https://aimlapi.com/models/qwen3-vl-32b-thinking)
+
+[anthracite-org/magnum-v4-72b](https://docs.aimlapi.com/api-references/text-models-llm/anthracite/magnum-v4)
+
+Anthracite
+
+32,000
+
+[Magnum v4 72B](https://aimlapi.com/models/magnum-v4-72b-api)
+
+[cohere/command-a](https://docs.aimlapi.com/api-references/text-models-llm/cohere/command-a)
+
+Cohere
+
+256,000
+
+[Command A](https://aimlapi.com/models/command-a)
+
+[deepseek-chat or deepseek/deepseek-chat or deepseek/deepseek-chat-v3-0324](https://docs.aimlapi.com/api-references/text-models-llm/deepseek/deepseek-chat)
+
+DeepSeek
+
+128,000
+
+[DeepSeek V3](https://aimlapi.com/models/deepseek-v3)
+
+[deepseek/deepseek-r1 or deepseek-reasoner](https://docs.aimlapi.com/api-references/text-models-llm/deepseek/deepseek-r1)
+
+DeepSeek
+
+128,000
+
+[DeepSeek R1](https://aimlapi.com/models/deepseek-r1-api)
+
+[deepseek/deepseek-prover-v2](https://docs.aimlapi.com/api-references/text-models-llm/deepseek/deepseek-prover-v2)
+
+DeepSeek
+
+164,000
+
+[DeepSeek Prover V2](https://aimlapi.com/models/deepseek-prover-v2-api)
+
+[deepseek/deepseek-chat-v3.1](https://docs.aimlapi.com/api-references/text-models-llm/deepseek/deepseek-chat-v3.1)
+
+DeepSeek
+
+128,000
+
+[DeepSeek V3.1 Chat](https://aimlapi.com/models/deepseek-v3-1-chat)
+
+[deepseek/deepseek-reasoner-v3.1](https://docs.aimlapi.com/api-references/text-models-llm/deepseek/deepseek-reasoner-v3.1)
+
+DeepSeek
+
+128,000
+
+[DeepSeek V3.1 Reasoner](https://aimlapi.com/models/deepseek-v3-1-reasoner)
+
+[deepseek/deepseek-thinking-v3.2-exp](https://docs.aimlapi.com/api-references/text-models-llm/deepseek/deepseek-reasoner-v3.2-exp-thinking)
+
+DeepSeek
+
+128,000
+
+[DeepSeek V3.2-Exp Thinking](https://aimlapi.com/models/deepseek-v3-2-exp-thinking)
+
+[deepseek/deepseek-non-thinking-v3.2-exp](https://docs.aimlapi.com/api-references/text-models-llm/deepseek/deepseek-reasoner-v3.2-exp-non-thinking)
+
+DeepSeek
+
+128,000
+
+[DeepSeek V3.2-Exp Non-Thinking](https://aimlapi.com/models/deepseek-v3-2-exp-non-thinking)
+
+[deepseek/deepseek-reasoner-v3.1-terminus](https://docs.aimlapi.com/api-references/text-models-llm/deepseek/deepseek-reasoner-v3.1-terminus)
+
+DeepSeek
+
+128,000
+
+[DeepSeek V3.1 Terminus Reasoning](https://aimlapi.com/models/deepseek-v3-1-terminus-reasoning)
+
+[deepseek/deepseek-non-reasoner-v3.1-terminus](https://docs.aimlapi.com/api-references/text-models-llm/deepseek/deepseek-non-reasoner-v3.1-terminus)
+
+DeepSeek
+
+128,000
+
+[DeepSeek V3.1 Terminus Non-Reasoning](https://aimlapi.com/models/deepseek-v3-1-terminus-non-reasoning)
+
+[gemini-2.0-flash-exp](https://docs.aimlapi.com/api-references/text-models-llm/google/gemini-2.0-flash-exp)
+
+Google
+
+1,000,000
+
+[Gemini 2.0 Flash Experimental](https://aimlapi.com/models/gemini-2-0-flash-experimental)
+
+[gemini-2.0-flash](https://docs.aimlapi.com/api-references/text-models-llm/google/gemini-2.0-flash)
+
+Google
+
+1,000,000
+
+[Gemini 2.0 Flash](https://aimlapi.com/models/gemini-2-0-flash-api)
+
+[google/gemini-2.5-flash-lite-preview](https://docs.aimlapi.com/api-references/text-models-llm/google/gemini-2.5-flash-lite-preview)
+
+Google
+
+1,000,000
+
+–
+
+[google/gemini-2.5-flash](https://docs.aimlapi.com/api-references/text-models-llm/google/gemini-2.5-flash)
+
+Google
+
+1,000,000
+
+[Gemini 2.5 Flash](https://aimlapi.com/models/gemini-2-5-flash-api)
+
+[google/gemini-3-flash-preview](https://docs.aimlapi.com/api-references/text-models-llm/google/gemini-3-flash-preview)
+
+Google
+
+1,000,000
+
+[Gemini 3 Flash](https://aimlapi.com/models/gemini-3-flash)
+
+[google/gemini-2.5-pro](https://docs.aimlapi.com/api-references/text-models-llm/google/gemini-2.5-pro)
+
+Google
+
+1,000,000
+
+[Gemini 2.5 Pro](https://aimlapi.com/models/gemini-pro-2-5-api)
+
+[google/gemini-3-pro-preview](https://docs.aimlapi.com/api-references/text-models-llm/google/gemini-3-pro-preview)
+
+Google
+
+200,000
+
+[Gemini 3 Pro Preview](https://aimlapi.com/models/gemini-3-preview)
+
+[google/gemma-3-4b-it](https://docs.aimlapi.com/api-references/text-models-llm/google/gemma-3)
+
+Google
+
+128,000
+
+[Gemma 3 (4B)](https://aimlapi.com/models/gemma-3-4b-api)
+
+[google/gemma-3-12b-it](https://docs.aimlapi.com/api-references/text-models-llm/google/gemma-3)
+
+Google
+
+128,000
+
+[Gemma 3 (12B)](https://aimlapi.com/models/gemma-3-12b-api)
+
+[google/gemma-3-27b-it](https://docs.aimlapi.com/api-references/text-models-llm/google/gemma-3)
+
+Google
+
+128,000
+
+[Gemma 3 (27B)](https://aimlapi.com/models/gemma-3-27b-api)
+
+[google/gemma-3n-e4b-it](https://docs.aimlapi.com/api-references/text-models-llm/google/gemma-3n-4b)
+
+Google
+
+8,192
+
+[Gemma 3n 4B](https://aimlapi.com/models/gemma-3n-4b)
+
+[gryphe/mythomax-l2-13b](https://docs.aimlapi.com/api-references/text-models-llm/gryphe/mythomax-l2-13b)
+
+Gryphe
+
+4,000
+
+[MythoMax-L2 (13B)](https://aimlapi.com/models/mythomax-l2-13b)
+
+[mistralai/Mixtral-8x7B-Instruct-v0.1](https://docs.aimlapi.com/api-references/text-models-llm/mistral-ai/mixtral-8x7b-instruct-v0.1)
+
+Mistral AI
+
+64,000
+
+[Mixtral-8x7B Instruct v0.1](https://aimlapi.com/models/mixtral-8x7b-instruct-v01)
+
+[meta-llama/Llama-3.3-70B-Instruct-Turbo](https://docs.aimlapi.com/api-references/text-models-llm/meta/llama-3.3-70b-instruct-turbo)
+
+Meta
+
+128,000
+
+[Meta Llama 3.3 70B Instruct Turbo](https://aimlapi.com/models/meta-llama-3-3-70b-instruct-turbo-api)
+
+[meta-llama/Llama-3.2-3B-Instruct-Turbo](https://docs.aimlapi.com/api-references/text-models-llm/meta/llama-3.2-3b-instruct-turbo)
+
+Meta
+
+131,000
+
+[Llama 3.2 3B Instruct Turbo](https://aimlapi.com/models/llama-3-2-3b-instruct-turbo)
+
+[meta-llama/Meta-Llama-3-8B-Instruct-Lite](https://docs.aimlapi.com/api-references/text-models-llm/meta/meta-llama-3-8b-instruct-lite)
+
+Meta
+
+9,000
+
+[Llama 3 8B Instruct Lite](https://aimlapi.com/models/llama-3-8b-instruct-lite-api)
+
+[meta-llama/Llama-3-70b-chat-hf](https://docs.aimlapi.com/api-references/text-models-llm/meta/llama-3-chat-hf)
+
+Meta
+
+8,000
+
+[Llama 3 70B Instruct Reference](https://aimlapi.com/models/meta-llama-3-70b-instruct)
+
+[meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo](https://docs.aimlapi.com/api-references/text-models-llm/meta/meta-llama-3.1-405b-instruct-turbo)
+
+Meta
+
+4,000
+
+[Llama 3.1 (405B) Instruct Turbo](https://aimlapi.com/models/llama-3-1-405b-api)
+
+[meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo](https://docs.aimlapi.com/api-references/text-models-llm/meta/meta-llama-3.1-8b-instruct-turbo)
+
+Meta
+
+128,000
+
+[Llama 3.1 8B Instruct Turbo](https://aimlapi.com/models/llama-3-1-8b-api)
+
+[meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo](https://docs.aimlapi.com/api-references/text-models-llm/meta/meta-llama-3.1-70b-instruct-turbo)
+
+Meta
+
+128,000
+
+[Llama 3.1 70B Instruct Turbo](https://aimlapi.com/models/llama-3-1-70b-instruct-turbo-api)
+
+[meta-llama/llama-4-scout](https://docs.aimlapi.com/api-references/text-models-llm/meta/llama-4-scout)
+
+Meta
+
+1,000,000
+
+[Llama 4 Scout](https://aimlapi.com/models/llama-4-scout-api)
+
+[meta-llama/llama-4-maverick](https://docs.aimlapi.com/api-references/text-models-llm/meta/llama-4-maverick)
+
+Meta
+
+256,000
+
+[Llama 4 Maverick](https://aimlapi.com/models/llama-4-maverick-api)
+
+[meta-llama/llama-3.3-70b-versatile](https://docs.aimlapi.com/api-references/text-models-llm/meta/llama-3.3-70b-versatile)
+
+Meta
+
+131,000
+
+[Llama 3.3 70B Versatile](https://docs.aimlapi.com/api-references/text-models-llm/meta/llama-3.3-70b-versatile)
+
+[mistralai/Mistral-7B-Instruct-v0.2](https://docs.aimlapi.com/api-references/text-models-llm/mistral-ai/mistral-7b-instruct)
+
+Mistral AI
+
+32,000
+
+[Mistral (7B) Instruct v0.2](https://aimlapi.com/models/mistral-7b-instruct-v02)
+
+[mistralai/Mistral-7B-Instruct-v0.3](https://docs.aimlapi.com/api-references/text-models-llm/mistral-ai/mistral-7b-instruct)
+
+Mistral AI
+
+32,000
+
+[Mistral (7B) Instruct v0.3](https://aimlapi.com/models/mistral-7b-instruct-v0-3)
+
+[mistralai/mistral-tiny](https://docs.aimlapi.com/api-references/text-models-llm/mistral-ai/mistral-tiny)
+
+Mistral AI
+
+32,000
+
+[Mistral Tiny](https://aimlapi.com/models/mistral-tiny-api)
+
+[mistralai/mistral-nemo](https://docs.aimlapi.com/api-references/text-models-llm/mistral-ai/mistral-nemo)
+
+Mistral AI
+
+128,000
+
+[Mistral Nemo](https://aimlapi.com/models/mistral-nemo-api)
+
+[nvidia/llama-3.1-nemotron-70b-instruct](https://docs.aimlapi.com/api-references/text-models-llm/nvidia/llama-3.1-nemotron-70b)
+
+NVIDIA
+
+128,000
+
+[Llama 3.1 Nemotron 70B Instruct](https://aimlapi.com/models/llama-3-1-nemotron-70b-instruct-api)
+
+[nvidia/nemotron-nano-9b-v2](https://docs.aimlapi.com/api-references/text-models-llm/nvidia/nemotron-nano-9b-v2)
+
+NVIDIA
+
+128,000
+
+[Nemotron Nano 9B V2](https://aimlapi.com/models/nemotron-nano-9b-v2)
+
+[nvidia/nemotron-nano-12b-v2-vl](https://docs.aimlapi.com/api-references/text-models-llm/nvidia/llama-3.1-nemotron-70b-1)
+
+NVIDIA
+
+128,000
+
+[Nemotron Nano 12B V2 VL](https://aimlapi.com/models/nemotron-nano-12b-v2-vl)
+
+[MiniMax-Text-01](https://docs.aimlapi.com/api-references/text-models-llm/minimax/text-01)
+
+MiniMax
+
+1,000,000
+
+[MiniMax-Text-01](https://aimlapi.com/models/minimax-text-01-api)
+
+[minimax/m1](https://docs.aimlapi.com/api-references/text-models-llm/minimax/m1)
+
+MiniMax
+
+1,000,000
+
+[MiniMax M1](https://aimlapi.com/models/minimax-m1)
+
+[minimax/m2](https://docs.aimlapi.com/api-references/text-models-llm/minimax/m2)
+
+MiniMax
+
+200,000
+
+[MiniMax M2](https://aimlapi.com/models/minimax-m2)
+
+[minimax/m2-1](https://docs.aimlapi.com/api-references/text-models-llm/minimax/m2-1)
+
+MiniMax
+
+204,800
+
+_Coming Soon_
+
+[moonshot/kimi-k2-preview](https://docs.aimlapi.com/api-references/text-models-llm/moonshot/kimi-k2-preview)
+
+Moonshot
+
+131,000
+
+[Kimi-K2](https://aimlapi.com/models/kimi-k2)
+
+[moonshot/kimi-k2-0905-preview](https://docs.aimlapi.com/api-references/text-models-llm/moonshot/kimi-k2-preview)
+
+Moonshot
+
+256,000
+
+[Kimi-K2](https://aimlapi.com/models/kimi-k2)
+
+[moonshot/kimi-k2-turbo-preview](https://docs.aimlapi.com/api-references/text-models-llm/moonshot/kimi-k2-turbo-preview)
+
+Moonshot
+
+256,000
+
+[Kimi K2 Turbo Preview](https://aimlapi.com/models/kimi-k2-turbo-preview)
+
+[nousresearch/hermes-4-405b](https://docs.aimlapi.com/api-references/text-models-llm/nousresearch/hermes-4-405b)
+
+NousResearch
+
+131,000
+
+_-_
+
+[perplexity/sonar](https://docs.aimlapi.com/api-references/text-models-llm/perplexity/sonar)
+
+Perplexity
+
+128,000
+
+[Sonar](https://aimlapi.com/models/perplexity-sonar)
+
+[perplexity/sonar-pro](https://docs.aimlapi.com/api-references/text-models-llm/perplexity/sonar-pro)
+
+Perplexity
+
+200,000
+
+[Sonar Pro](https://aimlapi.com/models/perplexity-sonar-pro)
+
+[x-ai/grok-3-beta](https://docs.aimlapi.com/api-references/text-models-llm/xai/grok-3-beta)
+
+xAI
+
+131,000
+
+[Grok 3 Beta](https://aimlapi.com/models/grok-3-beta-api)
+
+[x-ai/grok-3-mini-beta](https://docs.aimlapi.com/api-references/text-models-llm/xai/grok-3-mini-beta)
+
+xAI
+
+131,000
+
+[Grok 3 Beta Mini](https://aimlapi.com/models/grok-3-beta-mini-api)
+
+[x-ai/grok-4-07-09](https://docs.aimlapi.com/api-references/text-models-llm/xai/grok-4)
+
+xAI
+
+256,000
+
+[Grok 4](https://aimlapi.com/models/grok-4)
+
+[x-ai/grok-code-fast-1](https://docs.aimlapi.com/api-references/text-models-llm/xai/grok-code-fast-1)
+
+xAI
+
+256,000
+
+[Grok Code Fast 1](https://aimlapi.com/models/grok-code-fast-1)
+
+[x-ai/grok-4-fast-non-reasoning](https://docs.aimlapi.com/api-references/text-models-llm/xai/grok-4-fast-non-reasoning)
+
+xAI
+
+2,000,000
+
+[Grok 4 Fast](https://aimlapi.com/models/grok-4-fast)
+
+[x-ai/grok-4-fast-reasoning](https://docs.aimlapi.com/api-references/text-models-llm/xai/grok-4-fast-reasoning)
+
+xAI
+
+2,000,000
+
+[Grok 4 Fast Reasoning](https://aimlapi.com/models/grok-4-fast-reasoning)
+
+[x-ai/grok-4-1-fast-non-reasoning](https://docs.aimlapi.com/api-references/text-models-llm/xai/grok-4-1-fast-non-reasoning)
+
+xAI
+
+2,000,000
+
+[Grok 4.1 Fast Non-Reasoning](https://aimlapi.com/models/grok-4-1-fast-non-reasoning)
+
+[x-ai/grok-4-1-fast-reasoning](https://docs.aimlapi.com/api-references/text-models-llm/xai/grok-4-1-fast-reasoning)
+
+xAI
+
+2,000,000
+
+[Grok 4.1 Fast Reasoning](https://aimlapi.com/models/grok-4-1-fast-reasoning)
+
+[zhipu/glm-4.5-air](https://docs.aimlapi.com/api-references/text-models-llm/zhipu/glm-4.5-air)
+
+Zhipu
+
+128,000
+
+[GLM-4.5 Air](https://aimlapi.com/models/glm-4-5-air)
+
+[zhipu/glm-4.5](https://docs.aimlapi.com/api-references/text-models-llm/zhipu/glm-4.5)
+
+Zhipu
+
+128,000
+
+[GLM-4.5](https://aimlapi.com/models/glm-4-5)
+
+[zhipu/glm-4.6](https://docs.aimlapi.com/api-references/text-models-llm/zhipu/glm-4.6)
+
+Zhipu
+
+200,000
+
+[GLM-4.6](https://docs.aimlapi.com/api-references/text-models-llm/zhipu/glm-4.6)
+
+[zhipu/glm-4.7](https://docs.aimlapi.com/api-references/text-models-llm/zhipu/glm-4.7)
+
+Zhipu
+
+200,000
+
+_Coming Soon_
+
+### [](https://docs.aimlapi.com/api-references/model-database#image-models)
+
+Image Models
+
+Model ID + API Reference link
+
+Developer
+
+Context
+
+Model Card
+
+[alibaba/qwen-image](https://docs.aimlapi.com/api-references/image-models/alibaba-cloud/qwen-image)
+
+Alibaba Cloud
+
+[Qwen Image](https://aimlapi.com/models/qwen-image)
+
+[alibaba/qwen-image-edit](https://docs.aimlapi.com/api-references/image-models/alibaba-cloud/qwen-image-edit)
+
+Alibaba Cloud
+
+[Qwen Image Edit](https://aimlapi.com/models/qwen-image-edit)
+
+[alibaba/z-image-turbo](https://docs.aimlapi.com/api-references/image-models/alibaba-cloud/z-image-turbo)
+
+Alibaba Cloud
+
+[Z-Image Turbo](https://aimlapi.com/models/z-image-turbo)
+
+[alibaba/z-image-turbo-lora](https://docs.aimlapi.com/api-references/image-models/alibaba-cloud/z-image-turbo-lora)
+
+Alibaba Cloud
+
+[Z-Image Turbo LoRA](https://aimlapi.com/models/z-image-turbo-lora)
+
+[bytedance/seedream-3.0](https://docs.aimlapi.com/api-references/image-models/bytedance/seedream-3.0)
+
+ByteDance
+
+[Seedream 3.0](https://aimlapi.com/models/seedream-3-0)
+
+[bytedance/seededit-3.0-i2i](https://docs.aimlapi.com/api-references/image-models/bytedance/seededit-3.0-image-to-image)
+
+ByteDance
+
+[Seedream 3.0](https://aimlapi.com/models/seedream-3-0)
+
+[bytedance/seedream-v4-text-to-image](https://docs.aimlapi.com/api-references/image-models/bytedance/seedream-v4-text-to-image)
+
+ByteDance
+
+[Seedream 4 Text-to-Image](https://aimlapi.com/models/seedream-4)
+
+[bytedance/seedream-v4-edit](https://docs.aimlapi.com/api-references/image-models/bytedance/seedream-v4-edit-image-to-image)
+
+ByteDance
+
+[Seedream 4 Edit](https://aimlapi.com/models/seedream-4-edit)
+
+[bytedance/uso](https://docs.aimlapi.com/api-references/image-models/bytedance/uso)
+
+ByteDance
+
+[USO](https://aimlapi.com/models/uso)
+
+[bytedance/seedream-4-5](https://docs.aimlapi.com/api-references/image-models/bytedance/seedream-4-5)
+
+ByteDance
+
+[Seedream 4.5](https://aimlapi.com/models/seedream-4-5)
+
+[flux-pro](https://docs.aimlapi.com/api-references/image-models/flux/flux-pro)
+
+Flux
+
+[FLUX.1 [pro]](https://aimlapi.com/models/flux-1-pro-api)
+
+[flux-pro/v1.1](https://docs.aimlapi.com/api-references/image-models/flux/flux-pro)
+
+Flux
+
+[FLUX 1.1 [pro]](https://aimlapi.com/models/flux-1-1-pro-api)
+
+[flux-pro/v1.1-ultra](https://docs.aimlapi.com/api-references/image-models/flux/flux-pro-v1.1-ultra)
+
+Flux
+
+[FLUX 1.1 [pro ultra]](https://aimlapi.com/models/flux-1-1-pro-ultra-api)
+
+[flux-realism](https://docs.aimlapi.com/api-references/image-models/flux/flux-realism)
+
+Flux
+
+[FLUX Realism LoRA](https://aimlapi.com/models/flux-realism-lora-api)
+
+[flux/dev](https://docs.aimlapi.com/api-references/image-models/flux/flux-dev)
+
+Flux
+
+[FLUX.1 [dev]](https://aimlapi.com/models/flux-1-dev-api)
+
+[flux/dev/image-to-image](https://docs.aimlapi.com/api-references/image-models/flux/flux-dev-image-to-image)
+
+Flux
+
+-
+
+[flux/schnell](https://docs.aimlapi.com/api-references/image-models/flux/flux-schnell)
+
+Flux
+
+[FLUX.1 [schnell]](https://aimlapi.com/models/flux-1-schnell-api)
+
+[flux/kontext-max/text-to-image](https://docs.aimlapi.com/api-references/image-models/flux/flux-kontext-max-text-to-image)
+
+Flux
+
+[FLUX.1 Kontext [max]](https://aimlapi.com/models/flux-1-kontext-max)
+
+[flux/kontext-max/image-to-image](https://docs.aimlapi.com/api-references/image-models/flux/flux-kontext-max-image-to-image)
+
+Flux
+
+[FLUX.1 Kontext [max]](https://aimlapi.com/models/flux-1-kontext-max)
+
+[flux/kontext-pro/text-to-image](https://docs.aimlapi.com/api-references/image-models/flux/flux-kontext-pro-text-to-image)
+
+Flux
+
+[Flux.1 Kontext [pro]](https://aimlapi.com/models/flux-1-kontext-pro)
+
+[flux/kontext-pro/image-to-image](https://docs.aimlapi.com/api-references/image-models/flux/flux-kontext-pro-image-to-image)
+
+Flux
+
+[Flux.1 Kontext [pro]](https://aimlapi.com/models/flux-1-kontext-pro)
+
+[flux/srpo](https://docs.aimlapi.com/api-references/image-models/flux/flux-srpo-text-to-image)
+
+Flux
+
+[FLUX.1 SRPO Text-to-Image](https://aimlapi.com/models/flux-1-srpo-t2i)
+
+[flux/srpo/image-to-image](https://docs.aimlapi.com/api-references/image-models/flux/flux-srpo-image-to-image)
+
+Flux
+
+[FLUX.1 SRPO Image-to-Image](https://aimlapi.com/models/flux-1-srpo-i2i)
+
+[blackforestlabs/flux-2](https://docs.aimlapi.com/api-references/image-models/flux/flux-2)
+
+Flux
+
+[FLUX.2](https://aimlapi.com/models/flux-2-text-to-image)
+
+[blackforestlabs/flux-2-edit](https://docs.aimlapi.com/api-references/image-models/flux/flux-2-edit)
+
+Flux
+
+[FLUX.2 Edit](https://aimlapi.com/models/flux-2-edit)
+
+[blackforestlabs/flux-2-lora](https://docs.aimlapi.com/api-references/image-models/flux/flux-2-lora)
+
+Flux
+
+[Flux 2 LoRA](https://aimlapi.com/models/flux-2-lora)
+
+[blackforestlabs/flux-2-lora-edit](https://docs.aimlapi.com/api-references/image-models/flux/flux-2-lora-edit)
+
+Flux
+
+[Flux 2 LoRA Edit](https://aimlapi.com/models/flux-2-lora-edit)
+
+[blackforestlabs/flux-2-pro](https://docs.aimlapi.com/api-references/image-models/flux/flux-2-pro)
+
+Flux
+
+[FLUX.2 [pro]](https://aimlapi.com/models/flux-2-pro-text-to-image)
+
+[blackforestlabs/flux-2-pro-edit](https://docs.aimlapi.com/api-references/image-models/flux/flux-2-pro-edit)
+
+Flux
+
+[FLUX.2 [pro] Edit](https://aimlapi.com/models/flux-2-pro-image-editing)
+
+[imagen-3.0-generate-002](https://docs.aimlapi.com/api-references/image-models/google/imagen-3.0)
+
+Google
+
+[Imagen 3](https://aimlapi.com/models/imagen-3-api)
+
+[google/imagen4/preview](https://docs.aimlapi.com/api-references/image-models/google/imagen-4-preview)
+
+Google
+
+[Imagen 4 Preview](https://aimlapi.com/models/imagen-4-preview)
+
+[imagen-4.0-ultra-generate-preview-06-06](https://docs.aimlapi.com/api-references/image-models/google/imagen-4-ultra)
+
+Google
+
+[Imagen 4 Ultra](https://aimlapi.com/models/imagen-4-ultra)
+
+[google/gemini-2.5-flash-image](https://docs.aimlapi.com/api-references/image-models/google/gemini-2.5-flash-image)
+
+Google
+
+[Gemini 2.5 Flash Image](https://aimlapi.com/models/gemini-2-5-flash-image)
+
+[google/gemini-2.5-flash-image-edit](https://docs.aimlapi.com/api-references/image-models/google/gemini-2.5-flash-image-edit)
+
+Google
+
+[Gemini 2.5 Flash Image Edit](https://aimlapi.com/models/gemini-2-5-flash-image-edit)
+
+[google/gemini-3-pro-image-preview](https://docs.aimlapi.com/api-references/image-models/google/gemini-3-pro-image-preview)
+
+Google
+
+[Gemini 3 Pro Image (Nano Banana Pro)](https://aimlapi.com/models/gemini-3-pro-image)
+
+[google/gemini-3-pro-image-preview-edit](https://docs.aimlapi.com/api-references/image-models/google/gemini-3-pro-image-preview-edit)
+
+Google
+
+[Gemini 3 Pro Image Edit (Nano Banana Pro)](https://aimlapi.com/models/gemini-3-pro-image-edit)
+
+[google/imagen-4.0-generate-001](https://docs.aimlapi.com/api-references/image-models/google/imagen-4-generate)
+
+Google
+
+[Imagen 4.0 Generate](https://aimlapi.com/models/imagen-4-0-generate-001)
+
+[google/imagen-4.0-fast-generate-001](https://docs.aimlapi.com/api-references/image-models/google/imagen-4-fast-generate)
+
+Google
+
+[Imagen 4.0 Fast Generate](https://aimlapi.com/models/imagen-4-0-fast-generate-001)
+
+[google/imagen-4.0-ultra-generate-001](https://docs.aimlapi.com/api-references/image-models/google/imagen-4-ultra-generate)
+
+Google
+
+[Imagen 4.0 Ultra Generate](https://aimlapi.com/models/imagen-4-0-ultra-generate-001)
+
+[klingai/image-o1](https://docs.aimlapi.com/api-references/image-models/kling-ai/image-o1)
+
+Kling AI
+
+[Kling Image O1](https://aimlapi.com/models/kling-image-o1)
+
+[dall-e-2](https://docs.aimlapi.com/api-references/image-models/openai/dall-e-2)
+
+OpenAI
+
+[OpenAI DALL·E 2](https://aimlapi.com/models/openai-dall-e-2-api)
+
+[dall-e-3](https://docs.aimlapi.com/api-references/image-models/openai/dall-e-3)
+
+OpenAI
+
+[OpenAI DALL·E 3](https://aimlapi.com/models/openai-dall-e-3)
+
+[openai/gpt-image-1](https://docs.aimlapi.com/api-references/image-models/openai/gpt-image-1)
+
+OpenAI
+
+[gpt-image-1](https://aimlapi.com/models/gpt-image-1)
+
+[openai/gpt-image-1-5](https://docs.aimlapi.com/api-references/image-models/openai/gpt-image-1-5)
+
+OpenAI
+
+[GPT Image 1.5](https://aimlapi.com/models/gpt-image-1-5)
+
+[recraft-v3](https://docs.aimlapi.com/api-references/image-models/recraftai/recraft-v3)
+
+Recraft AI
+
+[Recraft v3](https://aimlapi.com/models/recraft-v3)
+
+[reve/create-image](https://docs.aimlapi.com/api-references/image-models/reve/reve-create-image)
+
+Reve
+
+[Reve Create Image](https://aimlapi.com/models/reve-create-image)
+
+[reve/edit-image](https://docs.aimlapi.com/api-references/image-models/reve/reve-edit-image)
+
+Reve
+
+[Reve Edit Image](https://aimlapi.com/models/reve-edit-image)
+
+[reve/remix-edit-image](https://docs.aimlapi.com/api-references/image-models/reve/reve-remix-edit-image)
+
+Reve
+
+[Reve Remix Image](https://aimlapi.com/models/reve-remix-image)
+
+[stable-diffusion-v3-medium](https://docs.aimlapi.com/api-references/image-models/stability-ai/stable-diffusion-v3-medium)
+
+Stability AI
+
+[Stable Diffusion 3](https://aimlapi.com/models/stable-diffusion-3-api)
+
+[stable-diffusion-v35-large](https://docs.aimlapi.com/api-references/image-models/stability-ai/stable-diffusion-v35-large)
+
+Stability AI
+
+[Stable Diffusion 3.5 Large](https://aimlapi.com/models/stable-diffusion-3-5-large-api)
+
+[hunyuan/hunyuan-image-v3-text-to-image](https://docs.aimlapi.com/api-references/image-models/tencent/hunyuan-image-v3-text-to-image)
+
+Tencent
+
+[HunyuanImage 3.0](https://aimlapi.com/models/hunyuanimage-3-0)
+
+[topaz-labs/sharpen](https://docs.aimlapi.com/api-references/image-models/topaz-labs/sharpen)
+
+Topaz Labs
+
+[Sharpen](https://aimlapi.com/models/sharpen)
+
+[topaz-labs/sharpen-gen](https://docs.aimlapi.com/api-references/image-models/topaz-labs/sharpen-generative)
+
+Topaz Labs
+
+[Sharpen Generative](https://aimlapi.com/models/sharpen)
+
+[x-ai/grok-2-image](https://docs.aimlapi.com/api-references/image-models/xai/grok-2-image)
+
+xAI
+
+[Grok 2 Image](https://aimlapi.com/models/grok-2-image)
+
+### [](https://docs.aimlapi.com/api-references/model-database#video-models)
+
+Video Models
+
+Model ID + API Reference link
+
+Developer
+
+Context
+
+Model Card
+
+[alibaba/wan2.1-t2v-plus](https://docs.aimlapi.com/api-references/video-models/alibaba-cloud/wan-2.1-plus-text-to-video)
+
+Alibaba Cloud
+
+[Wan2.1 Plus](https://aimlapi.com/models/wan2-1-plus)
+
+[alibaba/wan2.1-t2v-turbo](https://docs.aimlapi.com/api-references/video-models/alibaba-cloud/wan-2.1-turbo-text-to-video)
+
+Alibaba Cloud
+
+[Wan2.1 Turbo](https://aimlapi.com/models/wan2-1-turbo)
+
+[alibaba/wan2.2-t2v-plus](https://docs.aimlapi.com/api-references/video-models/alibaba-cloud/wan-2.2-plus-text-to-video)
+
+Alibaba Cloud
+
+[Wan 2.2 T2V](https://aimlapi.com/models/wan2-2-t2v)
+
+[alibaba/wan2.5-t2v-preview](https://docs.aimlapi.com/api-references/video-models/alibaba-cloud/wan-2.5-preview-text-to-video)
+
+Alibaba Cloud
+
+[Wan 2.5 Text-to-Video](https://aimlapi.com/models/wan-2-5-text-to-video)
+
+[alibaba/wan2.5-i2v-preview](https://docs.aimlapi.com/api-references/video-models/alibaba-cloud/wan-2.5-preview-image-to-video)
+
+Alibaba Cloud
+
+[Wan 2.5 Image-to-Video](https://aimlapi.com/models/wan-2-5-image-to-video)
+
+[alibaba/wan2.2-14b-animate-replace](https://docs.aimlapi.com/api-references/video-models/alibaba-cloud/wan-2.2-14b-animate-replace-image-to-video)
+
+Alibaba Cloud
+
+[Wan 2.2 14b animate replace](https://docs.aimlapi.com/api-references/video-models/alibaba-cloud/wan-2.2-14b-animate-replace-image-to-video)
+
+[alibaba/wan2.2-14b-animate-move](https://docs.aimlapi.com/api-references/video-models/alibaba-cloud/wan-2.2-14b-animate-move-image-to-video)
+
+Alibaba Cloud
+
+[Wan 2.2 14b animate move](https://docs.aimlapi.com/api-references/video-models/alibaba-cloud/wan-2.2-14b-animate-move-image-to-video)
+
+[alibaba/wan2.2-vace-fun-a14b-reframe](https://docs.aimlapi.com/api-references/video-models/alibaba-cloud/wan2.2-vace-fun-a14b-reframe-image-to-video)
+
+Alibaba Cloud
+
+[Wan 2.2 vace fun 14b reframe](https://docs.aimlapi.com/api-references/video-models/alibaba-cloud/wan2.2-vace-fun-a14b-reframe-image-to-video)
+
+[alibaba/wan2.2-vace-fun-a14b-outpainting](https://docs.aimlapi.com/api-references/video-models/alibaba-cloud/wan2.2-vace-fun-a14b-outpainting-image-to-video)
+
+Alibaba Cloud
+
+[Wan 2.2 vace fun 14b outpainting](https://docs.aimlapi.com/api-references/video-models/alibaba-cloud/wan2.2-vace-fun-a14b-outpainting-image-to-video)
+
+[alibaba/wan2.2-vace-fun-a14b-inpainting](https://docs.aimlapi.com/api-references/video-models/alibaba-cloud/wan2.2-vace-fun-a14b-inpainting-image-to-video)
+
+Alibaba Cloud
+
+[Wan 2.2 vace fun 14b inpainting](https://docs.aimlapi.com/api-references/video-models/alibaba-cloud/wan2.2-vace-fun-a14b-inpainting-image-to-video)
+
+[alibaba/wan2.2-vace-fun-a14b-pose](https://docs.aimlapi.com/api-references/video-models/alibaba-cloud/wan2.2-vace-fun-a14b-pose-image-to-video)
+
+Alibaba Cloud
+
+[Wan 2.2 vace fun 14b pose](https://docs.aimlapi.com/api-references/video-models/alibaba-cloud/wan2.2-vace-fun-a14b-pose-image-to-video)
+
+[alibaba/wan2.2-vace-fun-14b-depth](https://docs.aimlapi.com/api-references/video-models/alibaba-cloud/wan2.2-vace-fun-a14b-depth-image-to-video)
+
+Alibaba Cloud
+
+[Wan 2.2 vace fun 14b depth](https://docs.aimlapi.com/api-references/video-models/alibaba-cloud/wan2.2-vace-fun-a14b-depth-image-to-video)
+
+[bytedance/seedance-1-0-lite-t2v](https://docs.aimlapi.com/api-references/video-models/bytedance/seedance-1.0-lite-text-to-video)
+
+ByteDance
+
+[Seedance 1.0 lite Text to Video](https://aimlapi.com/models/seedance-1-0)
+
+[bytedance/seedance-1-0-lite-i2v](https://docs.aimlapi.com/api-references/video-models/bytedance/seedance-1.0-lite-image-to-video)
+
+ByteDance
+
+[Seedance 1.0 lite Image to Video](https://aimlapi.com/models/seedance-1-0-lite-image-to-video)
+
+[bytedance/seedance-1-0-pro-t2v](https://docs.aimlapi.com/api-references/video-models/bytedance/seedance-1.0-pro-text-to-video)
+
+ByteDance
+
+[Seedance 1.0 Pro](https://aimlapi.com/models/seedance-1-0-pro)
+
+[bytedance/seedance-1-0-pro-i2v](https://docs.aimlapi.com/api-references/video-models/bytedance/seedance-1.0-pro-image-to-video)
+
+ByteDance
+
+[Seedance 1.0 Pro](https://aimlapi.com/models/seedance-1-0-pro)
+
+[bytedance/omnihuman](https://docs.aimlapi.com/api-references/video-models/bytedance/omnihuman)
+
+ByteDance
+
+[OmniHuman](https://aimlapi.com/models/omnihuman)
+
+[bytedance/omnihuman/v1.5](https://docs.aimlapi.com/api-references/video-models/bytedance/omnihuman-1.5)
+
+ByteDance
+
+[OmniHuman v1.5](https://aimlapi.com/models/omnihuman-v1-5)
+
+[veo2](https://docs.aimlapi.com/api-references/video-models/google/veo2-text-to-video)
+
+Google
+
+[Veo2 Text-to-Video](https://aimlapi.com/models/veo-2-text-to-video-api)
+
+[veo2/image-to-video](https://docs.aimlapi.com/api-references/video-models/google/veo2-image-to-video)
+
+Google
+
+[Veo2 Image-to-Video](https://aimlapi.com/models/veo-2-image-to-video-api)
+
+[google/veo3](https://docs.aimlapi.com/api-references/video-models/google/veo3-text-to-video)
+
+Google
+
+[Veo 3](https://aimlapi.com/models/veo-3)
+
+[google/veo-3.0-i2v](https://docs.aimlapi.com/api-references/video-models/google/veo-3-image-to-video)
+
+Google
+
+[Veo 3 I2V](https://aimlapi.com/models/veo-3-0-i2v)
+
+[google/veo-3.0-fast](https://docs.aimlapi.com/api-references/video-models/google/veo-3-fast-text-to-video)
+
+Google
+
+[Veo 3 Fast](https://aimlapi.com/models/veo-3-0-fast)
+
+[google/veo-3.0-i2v-fast](https://docs.aimlapi.com/api-references/video-models/google/veo-3-fast-image-to-video)
+
+Google
+
+[Veo 3 I2V Fast](https://aimlapi.com/models/veo-3-i2v-fast)
+
+[google/veo-3.1-t2v](https://docs.aimlapi.com/api-references/video-models/google/veo-3-1-text-to-video)
+
+Google
+
+[Veo 3.1 Text-to-Video](https://aimlapi.com/models/veo-3-1-text-to-video)
+
+[google/veo-3.1-t2v-fast](https://docs.aimlapi.com/api-references/video-models/google/veo-3-1-text-to-video-fast)
+
+Google
+
+[Veo 3.1 Fast Text-to-Video](https://aimlapi.com/models/veo-3-1-fast-text-to-video)
+
+[google/veo-3.1-i2v](https://docs.aimlapi.com/api-references/video-models/google/veo-3-1-image-to-video)
+
+Google
+
+[Veo 3.1 Image-to-Video](https://aimlapi.com/models/veo-3-1-image-to-video)
+
+[google/veo-3.1-i2v-fast](https://docs.aimlapi.com/api-references/video-models/google/veo-3-1-image-to-video-fast)
+
+Google
+
+[Veo 3.1 Fast Image-to-Video](https://aimlapi.com/models/veo-3-1-fast-image-to-video)
+
+[google/veo-3.1-reference-to-video](https://docs.aimlapi.com/api-references/video-models/google/veo-3-1-reference-to-video)
+
+Google
+
+[Veo 3.1 Reference-to-Video](https://aimlapi.com/models/veo-3-1-reference-to-video)
+
+[google/veo-3.1-first-last-image-to-video](https://docs.aimlapi.com/api-references/video-models/google/veo-3-1-first-last-image-to-video)
+
+Google
+
+[Veo 3.1 First-Last Frame-to-Video](https://aimlapi.com/models/veo-3-1-first-last-frame-to-video)
+
+[google/veo-3.1-first-last-image-to-video-fast](https://docs.aimlapi.com/api-references/video-models/google/veo-3-1-first-last-image-to-video-fast)
+
+Google
+
+[Veo 3.1 Fast First-Last Frame-to-Video](https://aimlapi.com/models/veo-3-1-fast-first-last-frame-to-video)
+
+[kling-video/v1/standard/image-to-video](https://docs.aimlapi.com/api-references/video-models/kling-ai/v1-standard-image-to-video)
+
+Kling AI
+
+[Kling AI (image-to-video)](https://aimlapi.com/models/kling-ai-image-to-video)
+
+[kling-video/v1/standard/text-to-video](https://docs.aimlapi.com/api-references/video-models/kling-ai/v1-standard-text-to-video)
+
+Kling AI
+
+[Kling AI (text-to-video)](https://aimlapi.com/models/kling-ai-text-to-video-api)
+
+[kling-video/v1/pro/image-to-video](https://docs.aimlapi.com/api-references/video-models/kling-ai/v1-pro-image-to-video)
+
+Kling AI
+
+[Kling AI (image-to-video)](https://aimlapi.com/models/kling-ai-image-to-video)
+
+[kling-video/v1/pro/text-to-video](https://docs.aimlapi.com/api-references/video-models/kling-ai/v1-pro-text-to-video)
+
+Kling AI
+
+[Kling AI (text-to-video)](https://aimlapi.com/models/kling-ai-text-to-video-api)
+
+[kling-video/v1.6/standard/text-to-video](https://docs.aimlapi.com/api-references/video-models/kling-ai/v1.6-standard-text-to-video)
+
+Kling AI
+
+[Kling 1.6 Standard](https://aimlapi.com/models/kling-1-6-standard)
+
+[kling-video/v1.6/standard/image-to-video](https://docs.aimlapi.com/api-references/video-models/kling-ai/v1.6-standart-image-to-video)
+
+Kling AI
+
+[Kling 1.6 Standard](https://aimlapi.com/models/kling-1-6-standard)
+
+[kling-video/v1.6/pro/image-to-video](https://docs.aimlapi.com/api-references/video-models/kling-ai/v1.6-pro-image-to-video)
+
+Kling AI
+
+[Kling 1.6 Pro](https://aimlapi.com/models/kling-1-6-pro-api)
+
+[kling-video/v1.6/pro/text-to-video](https://docs.aimlapi.com/api-references/video-models/kling-ai/v1.6-pro-text-to-video)
+
+Kling AI
+
+[Kling 1.6 Pro](https://aimlapi.com/models/kling-1-6-pro-api)
+
+[klingai/kling-video-v1.6-pro-effects](https://docs.aimlapi.com/api-references/video-models/kling-ai/v1.6-pro-effects)
+
+Kling AI
+
+[Kling 1.6 Pro Effects](https://aimlapi.com/models/kling-1-6-pro-effects)
+
+[klingai/kling-video-v1.6-standard-effects](https://docs.aimlapi.com/api-references/video-models/kling-ai/v1.6-standard-effects)
+
+Kling AI
+
+[Kling 1.6 Standard Effects](https://aimlapi.com/models/kling-video-v1-6-standard-effects)
+
+[kling-video/v1.6/standard/multi-image-to-video](https://docs.aimlapi.com/api-references/video-models/kling-ai/v1.6-standard-multi-image-to-video)
+
+Kling AI
+
+[Kling V1.6 Multi-Image-to-Video](https://aimlapi.com/models/kling-v1-6-multi-image-to-video)
+
+[klingai/v2-master-image-to-video](https://docs.aimlapi.com/api-references/video-models/kling-ai/v2-master-image-to-video)
+
+Kling AI
+
+[Kling 2.0 Master](https://aimlapi.com/models/kling-2-0-master)
+
+[klingai/v2-master-text-to-video](https://docs.aimlapi.com/api-references/video-models/kling-ai/v2-master-text-to-video)
+
+Kling AI
+
+[Kling 2.0 Master](https://aimlapi.com/models/kling-2-0-master)
+
+[kling-video/v2.1/standard/image-to-video](https://docs.aimlapi.com/api-references/video-models/kling-ai/v2.1-standard-image-to-video)
+
+Kling AI
+
+[Kling V2.1 Standard I2V](https://aimlapi.com/models/kling-v2-1-standard-i2v)
+
+[kling-video/v2.1/pro/image-to-video](https://docs.aimlapi.com/api-references/video-models/kling-ai/v2.1-pro-image-to-video)
+
+Kling AI
+
+[Kling V2.1 Pro I2V](https://aimlapi.com/models/kling-v2-1-pro-i2v)
+
+[klingai/v2.1-master-image-to-video](https://docs.aimlapi.com/api-references/video-models/kling-ai/v2.1-master-image-to-video)
+
+Kling AI
+
+[ling 2.1 Master](https://aimlapi.com/models/kling-2-1)
+
+[klingai/v2.1-master-text-to-video](https://docs.aimlapi.com/api-references/video-models/kling-ai/v2.1-master-text-to-video)
+
+Kling AI
+
+[Kling 2.1 Master](https://aimlapi.com/models/kling-2-1)
+
+[klingai/v2.5-turbo/pro/image-to-video](https://docs.aimlapi.com/api-references/video-models/kling-ai/v2.5-turbo-pro-image-to-video)
+
+Kling AI
+
+[Kling Video v2.5 Turbo Pro Image-to-Video](https://aimlapi.com/models/kling-video-v2-5-turbo-pro-i2v)
+
+[klingai/v2.5-turbo/pro/text-to-video](https://docs.aimlapi.com/api-references/video-models/kling-ai/v2.5-turbo-pro-text-to-video)
+
+Kling AI
+
+[Kling Video v2.5 Turbo Pro Text-to-Video](https://aimlapi.com/models/kling-video-v2-5-turbo-pro-t2v)
+
+[klingai/avatar-standard](https://docs.aimlapi.com/api-references/video-models/kling-ai/avatar-standard)
+
+Kling AI
+
+[Kling AI Avatar Standard](https://aimlapi.com/models/kling-ai-avatar-standard)
+
+[klingai/avatar-pro](https://docs.aimlapi.com/api-references/video-models/kling-ai/avatar-pro)
+
+Kling AI
+
+[Kling AI Avatar Pro](https://aimlapi.com/models/kling-ai-avatar-pro)
+
+[klingai/video-v2-6-pro-text-to-video](https://docs.aimlapi.com/api-references/video-models/kling-ai/video-v2-6-pro-text-to-video)
+
+Kling AI
+
+[Kling 2.6 Pro Text-to-Video](https://aimlapi.com/models/kling-2-6-pro-text-to-video)
+
+[klingai/video-v2-6-pro-image-to-video](https://docs.aimlapi.com/api-references/video-models/kling-ai/video-v2.6-pro-image-to-video)
+
+Kling AI
+
+[Kling 2.6 Pro Image-to-Video](https://aimlapi.com/models/kling-2-6-pro-image-to-video)
+
+[klingai/video-o1-image-to-video](https://docs.aimlapi.com/api-references/video-models/kling-ai/video-o1-image-to-video)
+
+Kling AI
+
+[Kling Video O1 Image to Video](https://aimlapi.com/models/kling-video-o1-image-to-video)
+
+[klingai/video-o1-reference-to-video](https://docs.aimlapi.com/api-references/video-models/kling-ai/video-o1-reference-to-video)
+
+Kling AI
+
+[Kling Video O1 Reference-to-Video](https://aimlapi.com/models/kling-video-o1-reference-to-video)
+
+[klingai/video-o1-video-to-video-edit](https://docs.aimlapi.com/api-references/video-models/kling-ai/video-o1-video-to-video-edit)
+
+Kling AI
+
+[Kling Video O1 Video to Video Edit](https://aimlapi.com/models/kling-video-o1-video-to-video-edit)
+
+[klingai/video-o1-video-to-video-reference](https://docs.aimlapi.com/api-references/video-models/kling-ai/video-o1-video-to-video-reference)
+
+Kling AI
+
+[Kling Video O1 Video-to-Video Reference](https://aimlapi.com/models/kling-video-o1-video-to-video-reference)
+
+[krea/krea-wan-14b/text-to-video](https://docs.aimlapi.com/api-references/video-models/krea/krea-wan-14b-text-to-video)
+
+Krea
+
+[Krea WAN 14B Text-to-Video](https://aimlapi.com/models/krea-wan-14b-text-to-video)
+
+[krea/krea-wan-14b/video-to-video](https://docs.aimlapi.com/api-references/video-models/krea/krea-wan-14b-video-to-video)
+
+Krea
+
+[Krea WAN 14B Video-to-Video](https://aimlapi.com/models/krea-wan-14b-video-to-video)
+
+[ltxv/ltxv-2](https://docs.aimlapi.com/api-references/video-models/ltxv/ltxv-2)
+
+LTXV
+
+_Coming Soon_
+
+[ltxv/ltxv-2-fast](https://docs.aimlapi.com/api-references/video-models/ltxv/ltxv-2-fast)
+
+LTXV
+
+_Coming Soon_
+
+[video-01](https://docs.aimlapi.com/api-references/video-models/minimax/video-01)
+
+Minimax
+
+[MiniMax Video-01](https://aimlapi.com/models/minimax-video-01-api)
+
+[luma/ray-1.6](https://docs.aimlapi.com/api-references/video-models/luma-ai/luma-ai-v2)
+
+Luma AI
+
+[Ray 1.6](https://aimlapi.com/models/ray-1-6)
+
+[luma/ray-2](https://docs.aimlapi.com/api-references/video-models/luma-ai/luma-ray-2)
+
+Luma AI
+
+[Ray 2](https://aimlapi.com/models/ray-2)
+
+[luma/ray-flash-2](https://docs.aimlapi.com/api-references/video-models/luma-ai/luma-ray-flash-2)
+
+Luma AI
+
+[Ray Flash 2](https://aimlapi.com/models/ray-flash-2)
+
+[video-01-live2d](https://docs.aimlapi.com/api-references/video-models/minimax/video-01-live2d)
+
+Minimax
+
+-
+
+[minimax/hailuo-02](https://docs.aimlapi.com/api-references/video-models/minimax/hailuo-02)
+
+Minimax
+
+[Hailuo 02](https://aimlapi.com/models/hailuo-02)
+
+[sora-2-t2v](https://docs.aimlapi.com/api-references/video-models/openai/sora-2-t2v)
+
+OpenAI
+
+-
+
+[sora-2-i2v](https://docs.aimlapi.com/api-references/video-models/openai/sora-2-i2v)
+
+OpenAI
+
+-
+
+[sora-2-pro-t2v](https://docs.aimlapi.com/api-references/video-models/openai/sora-2-pro-t2v)
+
+OpenAI
+
+-
+
+[sora-2-pro-i2v](https://docs.aimlapi.com/api-references/video-models/openai/sora-2-pro-i2v)
+
+OpenAI
+
+-
+
+[pixverse/v5/text-to-video](https://docs.aimlapi.com/api-references/video-models/pixverse/v5-text-to-video)
+
+PixVerse
+
+[Pixverse v5 Text-to-Video](https://aimlapi.com/models/pixverse-v5-t2v)
+
+[pixverse/v5/image-to-video](https://docs.aimlapi.com/api-references/video-models/pixverse/v5-image-to-video)
+
+PixVerse
+
+[Pixverse v5 Image-to-Video](https://aimlapi.com/models/pixverse-v5-i2v)
+
+[pixverse/v5/transition](https://docs.aimlapi.com/api-references/video-models/pixverse/v5-transition)
+
+PixVerse
+
+[Pixverse v5 Transition](https://aimlapi.com/models/pixverse-v5-transition)
+
+[pixverse/v5-5-text-to-video](https://docs.aimlapi.com/api-references/video-models/pixverse/v5-5-text-to-video)
+
+PixVerse
+
+_Coming Soon_
+
+[pixverse/v5-5-image-to-video](https://docs.aimlapi.com/api-references/video-models/pixverse/v5-5-image-to-video)
+
+PixVerse
+
+_Coming Soon_
+
+[gen3a_turbo](https://docs.aimlapi.com/api-references/video-models/runway/gen3a_turbo)
+
+Runway
+
+[Runway Gen-3 turbo](https://aimlapi.com/models/runway-gen-3-turbo)
+
+[runway/gen4_turbo](https://docs.aimlapi.com/api-references/video-models/runway/gen4_turbo)
+
+Runway
+
+[Runway Gen-4 Turbo](https://aimlapi.com/models/runway-gen-4-turbo-api)
+
+[runway/gen4_aleph](https://docs.aimlapi.com/api-references/video-models/runway/gen4_aleph)
+
+Runway
+
+[Aleph](https://aimlapi.com/models/aleph)
+
+[runway/act_two](https://docs.aimlapi.com/api-references/video-models/runway/act_two)
+
+Runway
+
+[Runway Act Two](https://aimlapi.com/models/runway-act-two)
+
+[sber-ai/kandinsky5-t2v](https://docs.aimlapi.com/api-references/video-models/sber-ai/kandinsky5-text-to-video)
+
+Sber AI
+
+[Kandinsky 5 Standard](https://aimlapi.com/models/kandinsky-5-standard)
+
+[sber-ai/kandinsky5-distill-t2v](https://docs.aimlapi.com/api-references/video-models/sber-ai/kandinsky5-distill-text-to-video)
+
+Sber AI
+
+[Kandinsky 5 Distill](https://aimlapi.com/models/kandinsky-5-distill)
+
+[veed/fabric-1.0](https://docs.aimlapi.com/api-references/video-models/veed/fabric-1.0)
+
+Veed
+
+[fabric-1.0](https://docs.aimlapi.com/api-references/video-models/veed/fabric-1.0)
+
+[veed/fabric-1.0-fast](https://docs.aimlapi.com/api-references/video-models/veed/fabric-1.0-fast)
+
+Veed
+
+[fabric-1.0-fast](https://docs.aimlapi.com/api-references/video-models/veed/fabric-1.0-fast)
+
+### [](https://docs.aimlapi.com/api-references/model-database#voice-speech-models)
+
+Voice/Speech Models
+
+#### [](https://docs.aimlapi.com/api-references/model-database#speech-to-text)
+
+Speech-to-Text
+
+Model ID + API Reference link
+
+Developer
+
+Context
+
+Model Card
+
+[aai/slam-1](https://docs.aimlapi.com/api-references/speech-models/speech-to-text/assembly-ai/slam-1)
+
+Assembly AI
+
+[Slam 1](https://aimlapi.com/models/slam-1)
+
+[aai/universal](https://docs.aimlapi.com/api-references/speech-models/speech-to-text/assembly-ai/universal)
+
+Assembly AI
+
+[Universal](https://aimlapi.com/models/universal)
+
+[#g1_nova-2-automotive](https://docs.aimlapi.com/api-references/speech-models/speech-to-text/deepgram/nova-2)
+
+Deepgram
+
+[Deepgram Nova-2](https://aimlapi.com/models/deepgram-nova-2)
+
+[#g1_nova-2-conversationalai](https://docs.aimlapi.com/api-references/speech-models/speech-to-text/deepgram/nova-2)
+
+Deepgram
+
+[Deepgram Nova-2](https://aimlapi.com/models/deepgram-nova-2)
+
+[#g1_nova-2-drivethru](https://docs.aimlapi.com/api-references/speech-models/speech-to-text/deepgram/nova-2)
+
+Deepgram
+
+[Deepgram Nova-2](https://aimlapi.com/models/deepgram-nova-2)
+
+[#g1_nova-2-finance](https://docs.aimlapi.com/api-references/speech-models/speech-to-text/deepgram/nova-2)
+
+Deepgram
+
+[Deepgram Nova-2](https://aimlapi.com/models/deepgram-nova-2)
+
+[#g1_nova-2-general](https://docs.aimlapi.com/api-references/speech-models/speech-to-text/deepgram/nova-2)
+
+Deepgram
+
+[Deepgram Nova-2](https://aimlapi.com/models/deepgram-nova-2)
+
+[#g1_nova-2-medical](https://docs.aimlapi.com/api-references/speech-models/speech-to-text/deepgram/nova-2)
+
+Deepgram
+
+[Deepgram Nova-2](https://aimlapi.com/models/deepgram-nova-2)
+
+[#g1_nova-2-meeting](https://docs.aimlapi.com/api-references/speech-models/speech-to-text/deepgram/nova-2)
+
+Deepgram
+
+[Deepgram Nova-2](https://aimlapi.com/models/deepgram-nova-2)
+
+[#g1_nova-2-phonecall](https://docs.aimlapi.com/api-references/speech-models/speech-to-text/deepgram/nova-2)
+
+Deepgram
+
+[Deepgram Nova-2](https://aimlapi.com/models/deepgram-nova-2)
+
+[#g1_nova-2-video](https://docs.aimlapi.com/api-references/speech-models/speech-to-text/deepgram/nova-2)
+
+Deepgram
+
+[Deepgram Nova-2](https://aimlapi.com/models/deepgram-nova-2)
+
+[#g1_nova-2-voicemail](https://docs.aimlapi.com/api-references/speech-models/speech-to-text/deepgram/nova-2)
+
+Deepgram
+
+[Deepgram Nova-2](https://aimlapi.com/models/deepgram-nova-2)
+
+[#g1_whisper-tiny](https://docs.aimlapi.com/api-references/speech-models/speech-to-text/openai/whisper-tiny)
+
+OpenAI
+
+-
+
+[#g1_whisper-small](https://docs.aimlapi.com/api-references/speech-models/speech-to-text/openai/whisper-small)
+
+OpenAI
+
+-
+
+[#g1_whisper-base](https://docs.aimlapi.com/api-references/speech-models/speech-to-text/openai/whisper-base)
+
+OpenAI
+
+-
+
+[#g1_whisper-medium](https://docs.aimlapi.com/api-references/speech-models/speech-to-text/openai/whisper-medium)
+
+OpenAI
+
+-
+
+[#g1_whisper-large](https://docs.aimlapi.com/api-references/speech-models/speech-to-text/openai/whisper-large)
+
+OpenAI
+
+[Whisper](https://aimlapi.com/models/whisper)
+
+#### [](https://docs.aimlapi.com/api-references/model-database#text-to-speech)
+
+Text-to-Speech
+
+Model ID
+
+Developer
+
+Context
+
+Model Card
+
+[alibaba/qwen3-tts-flash](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/alibaba-cloud/qwen3-tts-flash)
+
+Alibaba Cloud
+
+[Qwen3-TTS-Flash](https://aimlapi.com/models/qwen3-tts-flash)
+
+[#g1_aura-angus-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura)
+
+Deepgram
+
+[Aura](https://aimlapi.com/models/aura)
+
+[#g1_aura-arcas-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura)
+
+Deepgram
+
+[Aura](https://aimlapi.com/models/aura)
+
+[#g1_aura-asteria-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura)
+
+Deepgram
+
+[Aura](https://aimlapi.com/models/aura)
+
+[#g1_aura-athena-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura)
+
+Deepgram
+
+[Aura](https://aimlapi.com/models/aura)
+
+[#g1_aura-helios-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura)
+
+Deepgram
+
+[Aura](https://aimlapi.com/models/aura)
+
+[#g1_aura-hera-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura)
+
+Deepgram
+
+[Aura](https://aimlapi.com/models/aura)
+
+[#g1_aura-luna-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura)
+
+Deepgram
+
+[Aura](https://aimlapi.com/models/aura)
+
+[#g1_aura-orion-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura)
+
+Deepgram
+
+[Aura](https://aimlapi.com/models/aura)
+
+[#g1_aura-orpheus-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura)
+
+Deepgram
+
+[Aura](https://aimlapi.com/models/aura)
+
+[#g1_aura-perseus-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura)
+
+Deepgram
+
+[Aura](https://aimlapi.com/models/aura)
+
+[#g1_aura-stella-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura)
+
+Deepgram
+
+[Aura](https://aimlapi.com/models/aura)
+
+[#g1_aura-zeus-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura)
+
+Deepgram
+
+[Aura](https://aimlapi.com/models/aura)
+
+[#g1_aura-2-amalthea-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-andromeda-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-apollo-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-arcas-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-aries-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-asteria-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-athena-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-atlas-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-aurora-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-callista-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-cora-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-cordelia-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-delia-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-draco-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-electra-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-harmonia-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-helena-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-hera-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-hermes-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-hyperion-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-iris-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-janus-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-juno-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-jupiter-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-luna-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-mars-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-minerva-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-neptune-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-odysseus-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-ophelia-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-orion-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-orpheus-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-pandora-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-phoebe-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-pluto-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-saturn-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-selene-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-thalia-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-theia-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-vesta-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-zeus-en](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-celeste-es](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-estrella-es](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[#g1_aura-2-nestor-es](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/deepgram/aura-2)
+
+Deepgram
+
+[Aura 2](https://aimlapi.com/models/aura-2)
+
+[elevenlabs/eleven_multilingual_v2](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/elevenlabs/eleven_multilingual_v2)
+
+ElevenLabs
+
+[ElevenLabs Multilingual v2](https://aimlapi.com/models/eleven-multilingual-v2)
+
+[elevenlabs/eleven_turbo_v2_5](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/elevenlabs/eleven_turbo_v2_5)
+
+ElevenLabs
+
+[ElevenLabs Turbo v2.5](https://aimlapi.com/models/eleven-turbo-v2-5)
+
+[inworld/tts-1](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/inworld/tts-1)
+
+Inworld
+
+[Inworld TTS-1](https://aimlapi.com/models/inworld-tts-1)
+
+[inworld/tts-1-max](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/inworld/tts-1-max)
+
+Inworld
+
+[Inworld TTS-1 MAX](https://aimlapi.com/models/inworld-tts-1-max)
+
+[microsoft/vibevoice-1.5b](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/microsoft/vibevoice-1.5b)
+
+Microsoft
+
+[VibeVoice 1.5B](https://aimlapi.com/models/vibevoice-1-5b)
+
+[microsoft/vibevoice-7b](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/microsoft/vibevoice-7b)
+
+Microsoft
+
+[VibeVoice 7B](https://aimlapi.com/models/vibevoice-7b)
+
+[openai/tts-1](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/openai/tts-1)
+
+OpenAI
+
+[TTS-1](https://aimlapi.com/models/tts-1)
+
+[openai/tts-1-hd](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/openai/tts-1-hd)
+
+OpenAI
+
+[TTS-1 HD](https://aimlapi.com/models/tts-1-hd)
+
+[openai/gpt-4o-mini-tts](https://docs.aimlapi.com/api-references/speech-models/text-to-speech/openai/gpt-4o-mini-tts)
+
+OpenAI
+
+[GPT-4o-mini-TTS](https://aimlapi.com/models/gpt-4o-mini-tts)
+
+#### [](https://docs.aimlapi.com/api-references/model-database#voice-chat)
+
+Voice Chat
+
+Model ID
+
+Developer
+
+Context
+
+Model Card
+
+[elevenlabs/v3_alpha](https://docs.aimlapi.com/api-references/speech-models/voice-chat/elevenlabs/v3_alpha)
+
+ElevenLabs
+
+[Eleven v3 Alpha](https://aimlapi.com/models/eleven-v3-alpha)
+
+[minimax/speech-2.5-turbo-preview](https://docs.aimlapi.com/api-references/speech-models/voice-chat/minimax/speech-2.5-turbo-preview)
+
+MiniMax
+
+[MiniMax Speech 2.5 Turbo](https://aimlapi.com/models/minimax-speech-2-5-turbo)
+
+[minimax/speech-2.5-hd-preview](https://docs.aimlapi.com/api-references/speech-models/voice-chat/minimax/speech-2.5-hd-preview)
+
+MiniMax
+
+[MiniMax Speech 2.5 HD](https://aimlapi.com/models/minimax-speech-2-5-hd)
+
+[minimax/speech-2.6-turbo](https://docs.aimlapi.com/api-references/speech-models/voice-chat/minimax/speech-2.6-turbo)
+
+MiniMax
+
+[MiniMax Speech 2.6 Turbo](https://aimlapi.com/models/minimax-speech-2-6-turbo)
+
+[minimax/speech-2.6-hd](https://docs.aimlapi.com/api-references/speech-models/voice-chat/minimax/speech-2.6-hd)
+
+MiniMax
+
+[MiniMax Speech 2.6 HD](https://aimlapi.com/models/minimax-speech-2-6-hd)
+
+### [](https://docs.aimlapi.com/api-references/model-database#music-models)
+
+Music Models
+
+Model ID
+
+Developer
+
+Context
+
+Model Card
+
+[elevenlabs/eleven_music](https://docs.aimlapi.com/api-references/music-models/elevenlabs/eleven_music)
+
+ElevenLabs
+
+[Eleven Music](https://aimlapi.com/models/elevenmusic)
+
+[google/lyria2](https://docs.aimlapi.com/api-references/music-models/google/lyria-2)
+
+Google
+
+[Lyria 2](https://aimlapi.com/models/lyria-2)
+
+[stable-audio](https://docs.aimlapi.com/api-references/music-models/stability-ai/stable-audio)
+
+Stability AI
+
+[Stable Audio](https://aimlapi.com/models/stable-audio)
+
+[minimax-music](https://docs.aimlapi.com/api-references/music-models/minimax/minimax-music-legacy)
+
+Minimax AI
+
+-
+
+[music-01](https://docs.aimlapi.com/api-references/music-models/minimax/music-01)
+
+Minimax AI
+
+[MiniMax Music](https://aimlapi.com/models/minimax-music-api)
+
+[minimax/music-1.5](https://docs.aimlapi.com/api-references/music-models/minimax/music-1.5)
+
+Minimax AI
+
+[MiniMax Music 1.5](https://aimlapi.com/models/minimax-music-1-5)
+
+### [](https://docs.aimlapi.com/api-references/model-database#content-moderation-models)
+
+Content Moderation Models
+
+Model ID + API Reference link
+
+Developer
+
+Context
+
+Model Card
+
+[meta-llama/Llama-Guard-3-11B-Vision-Turbo](https://docs.aimlapi.com/api-references/moderation-safety-models/meta/llama-guard-3-11b-vision-turbo)
+
+Meta
+
+128,000
+
+-
+
+[meta-llama/LlamaGuard-2-8b](https://docs.aimlapi.com/api-references/moderation-safety-models/meta/llamaguard-2-8b)
+
+Meta
+
+8,000
+
+[LlamaGuard 2 (8b)](https://aimlapi.com/models/llama-guard-2-8b)
+
+[meta-llama/Meta-Llama-Guard-3-8B](https://docs.aimlapi.com/api-references/moderation-safety-models/meta/meta-llama-guard-3-8b)
+
+Meta
+
+8,000
+
+[Llama Guard 3 (8B)](https://aimlapi.com/models/llama-guard-3-8b)
+
+### [](https://docs.aimlapi.com/api-references/model-database#vision-models)
+
+Vision Models
+
+#### [](https://docs.aimlapi.com/api-references/model-database#optical-character-recognition-ocr)
+
+Optical Character Recognition (OCR)
+
+Model ID + API Reference link
+
+Developer
+
+Context
+
+Model Card
+
+[_The service has no Model ID_](https://docs.aimlapi.com/api-references/vision-models/ocr-optical-character-recognition/google/google-ocr)
+
+Google
+
+-
+
+[mistral/mistral-ocr-latest](https://docs.aimlapi.com/api-references/vision-models/ocr-optical-character-recognition/mistral-ai/mistral-ocr-latest)
+
+Mistral AI
+
+-
+
+### [](https://docs.aimlapi.com/api-references/model-database#id-3d-generating-models)
+
+3D-Generating Models
+
+Model ID + API Reference link
+
+Developer
+
+Context
+
+Model Card
+
+[triposr](https://docs.aimlapi.com/api-references/3d-generating-models/stability-ai/triposr)
+
+Tripo AI
+
+[Stable TripoSR 3D](https://aimlapi.com/models/stable-tripo-sr-api)
+
+### [](https://docs.aimlapi.com/api-references/model-database#embedding-models)
+
+Embedding Models
+
+Model ID + API Reference link
+
+Developer
+
+Context
+
+Model Card
+
+[text-embedding-3-small](https://docs.aimlapi.com/api-references/embedding-models/openai/text-embedding-3-small)
+
+Open AI
+
+8,000
+
+-
+
+[text-embedding-3-large](https://docs.aimlapi.com/api-references/embedding-models/openai/text-embedding-3-large)
+
+Open AI
+
+8,000
+
+[Text-embedding-3-large](https://aimlapi.com/models/text-embedding-3-large)
+
+[text-embedding-ada-002](https://docs.aimlapi.com/api-references/embedding-models/openai/text-embedding-ada-002)
+
+Open AI
+
+8,000
+
+[Text-embedding-ada-002](https://aimlapi.com/models/text-embedding-ada-002)
+
+[togethercomputer/m2-bert-80M-32k-retrieval](https://docs.aimlapi.com/api-references/embedding-models/together-ai/m2-bert-80m-retrieval)
+
+Together AI
+
+32,000
+
+[M2-BERT-Retrieval-32k](https://aimlapi.com/models/m2-bert-retrieval-32k)
+
+[BAAI/bge-base-en-v1.5](https://docs.aimlapi.com/api-references/embedding-models/baai/bge-base-en)
+
+BAAI
+
+[BAAI-Bge-Base-1p5](https://aimlapi.com/models/baai-bge-base-1p5)
+
+[BAAI/bge-large-en-v1.5](https://docs.aimlapi.com/api-references/embedding-models/baai/bge-large-en)
+
+BAAI
+
+[bge-large-en](https://aimlapi.com/models/baai-bge-large-1p5)
+
+[voyage-large-2-instruct](https://docs.aimlapi.com/api-references/embedding-models/anthropic/voyage-large-2-instruct)
+
+Anthropic
+
+16,000
+
+[Voyage Large 2 Instruct](https://aimlapi.com/models/voyage-large-2-instruct-api)
+
+[voyage-finance-2](https://docs.aimlapi.com/api-references/embedding-models/anthropic/voyage-finance-2)
+
+Anthropic
+
+32,000
+
+-
+
+[voyage-multilingual-2](https://docs.aimlapi.com/api-references/embedding-models/anthropic/voyage-multilingual-2)
+
+Anthropic
+
+32,000
+
+-
+
+[voyage-law-2](https://docs.aimlapi.com/api-references/embedding-models/anthropic/voyage-law-2)
+
+Anthropic
+
+16,000
+
+-
+
+[voyage-code-2](https://docs.aimlapi.com/api-references/embedding-models/anthropic/voyage-code-2)
+
+Anthropic
+
+16,000
+
+-
+
+[voyage-large-2](https://docs.aimlapi.com/api-references/embedding-models/anthropic/voyage-large-2)
+
+Anthropic
+
+16,000
+
+-
+
+[voyage-2](https://docs.aimlapi.com/api-references/embedding-models/anthropic/voyage-2)
+
+Anthropic
+
+4,000
+
+-
+
+[textembedding-gecko@003](https://docs.aimlapi.com/api-references/embedding-models/google/textembedding-gecko)
+
+Google
+
+2,000
+
+[Textembedding-gecko@003](https://aimlapi.com/models/textembedding-gecko-003-api)
+
+[textembedding-gecko-multilingual@001](https://docs.aimlapi.com/api-references/embedding-models/google/textembedding-gecko)
+
+Google
+
+2,000
+
+[Textembedding-gecko-multilingual@001](https://aimlapi.com/models/textembedding-gecko-multilingual-001-api)
+
+[text-multilingual-embedding-002](https://docs.aimlapi.com/api-references/embedding-models/google/text-multilingual-embedding-002)
+
+Google
+
+2,000
+
+-
+
+* * *
+
+### [](https://docs.aimlapi.com/api-references/model-database#deprecated-no-longer-supported-models)
+
+![Image 4](https://docs.aimlapi.com/~gitbook/image?url=https%3A%2F%2F3927338786-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FROMd1X5PuqtikJ48n2N9%252Fuploads%252Fgit-blob-bd52cb24a7111f901f5b2c34cbc9be2750893356%252Foffline-label.png%3Falt%3Dmedia&width=115&dpr=4&quality=100&sign=d627bab0&sv=2) Deprecated / No Longer Supported Models
+
+These models are no longer available for API or Playground calls. Their description and API reference pages have also been removed from this documentation portal.
+
+Model ID
+
+Developer
+
+Context
+
+Model Card
+
+mistralai/codestral-2501
+
+Mistral AI
+
+256,000
+
+[Mistral Codestral-2501](https://aimlapi.com/models/mistral-codestral-2501-api)
+
+mistralai/Mistral-7B-Instruct-v0.1
+
+Mistral AI
+
+8,000
+
+[Mistral (7B) Instruct v0.1](https://aimlapi.com/models/mistral-7b-instruct)
+
+Qwen/Qwen2.5-Coder-32B-Instruct
+
+Alibaba Cloud
+
+131,000
+
+[Qwen 2.5 Coder](https://aimlapi.com/models/qwen-2-5-coder-32b-instruct)
+
+Qwen/QwQ-32B
+
+Alibaba Cloud
+
+131,000
+
+[Qwq-32B](https://aimlapi.com/models/qwq-32b-api)
+
+kling-video/v1.5/standard/text-to-video
+
+Kling AI
+
+128,000
+
+[Kling 1.5 Standart](https://aimlapi.com/models/kling-v1-5-standard)
+
+o1-mini o1-mini-2024-09-12
+
+OpenAI
+
+128,000
+
+[OpenAI o1-mini](https://aimlapi.com/models/openai-o1-mini-api)
+
+Qwen/Qwen2-72B-Instruct
+
+Alibaba Cloud
+
+32,000
+
+[Qwen 2 Instruct (72B)](https://aimlapi.com/models/qwen-2-instruct-72b)
+
+claude-3-5-sonnet-20240620
+
+Anthropic
+
+200,000
+
+-
+
+claude-3-5-sonnet-20241022
+
+Anthropic
+
+200,000
+
+[Claude 3.5 Sonnet 20241022](https://aimlapi.com/models/claude-3-5-sonnet)
+
+cohere/command-r-plus
+
+Cohere
+
+128,000
+
+[Command R+](https://aimlapi.com/models/command-r-api)
+
+google/gemma-2-27b-it
+
+Google
+
+8,000
+
+[Gemma 2 (27b)](https://aimlapi.com/models/gemma-2-27b)
+
+NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO
+
+Nous Research
+
+32,000
+
+-
+
+nvidia/Llama-3.1-Nemotron-70B-Instruct-HF
+
+Nvidia
+
+128,000
+
+[Llama 3.1 Nemotron 70B Instruct](https://aimlapi.com/models/llama-3-1-nemotron-70b-instruct-api)
+
+meta-llama/Llama-3-8b-chat-hf
+
+Meta
+
+8,000
+
+[Llama 3 8B Instruct Reference](https://aimlapi.com/models/llama-3-8b-instruct-reference-api)
+
+meta-llama/Llama-3.2-90B-Vision-Instruct-Turbo
+
+Meta
+
+131,000
+
+[Llama 3.2 90B Vision Instruct Turbo](https://aimlapi.com/models/llama-3-2-90b-vision-instruct-turbo-api)
+
+meta-llama/Llama-Vision-Free
+
+Meta
+
+128,000
+
+-
+
+meta-llama/Llama-3.2-11B-Vision-Instruct-Turbo
+
+Meta
+
+131,000
+
+[Llama 3.2 11B Vision Instruct Turbo](https://aimlapi.com/models/llama-3-2-11b-vision-instruct-turbo-api)
+
+abab6.5s-chat
+
+MiniMax
+
+245,000
+
+-
+
+openrouter/horizon-beta
+
+OpenRouter
+
+256,000
+
+-
+
+openrouter/horizon-alpha
+
+OpenRouter
+
+256,000
+
+-
+
+wan/v2.1/1.3b/text-to-video
+
+Alibaba Cloud
+
+-
+
+[Wan 2.1](https://aimlapi.com/models/wan-2-1-api)
+
+o1-preview, o1-preview-2024-09-12
+
+OpenAI
+
+128,000
+
+[OpenAI o1-preview](https://aimlapi.com/models/openai-o1-preview-api)
+
+claude-3-sonnet-20240229, anthropic/claude-3-sonnet, claude-3-sonnet-latest
+
+Anthropic
+
+200,000
+
+[Claude 3 Sonnet](https://aimlapi.com/models/claude-3-sonnet)
+
+google/gemini-2.5-pro-preview, google/gemini-2.5-pro-preview-05-06
+
+Google
+
+1,000,000
+
+[Gemini Pro 2.5 Preview](https://aimlapi.com/models/gemini-pro-2-5-preview-api)
+
+google/gemini-2.5-flash-preview
+
+Google
+
+1,000,000
+
+[Gemini 2.5 Flash Preview](https://aimlapi.com/models/gemini-2-5-flash-preview-api)
+
+neversleep/llama-3.1-lumimaid-70b
+
+NeverSleep
+
+8,000
+
+[Llama 3.1 Lumimaid 70b](https://aimlapi.com/models/llama-3-1-lumimaid-70b-api)
+
+x-ai/grok-beta
+
+xAI
+
+131,000
+
+[Grok-2 Beta](https://aimlapi.com/models/grok-2-beta-api)
+
+gpt-4.5-preview
+
+OpenAI
+
+128,000
+
+[Chat GPT 4.5 preview](https://aimlapi.com/models/chat-gpt-4-5-preview-api)
+
+gemini-1.5-flash
+
+Google
+
+1,000,000
+
+[Gemini 1.5 Flash](https://aimlapi.com/models/gemini-1-5-flash-api)
+
+gemini-1.5-pro
+
+Google
+
+1,000,000
+
+[Gemini 1.5 Pro](https://aimlapi.com/models/gemini-1-5-pro-api)
+
+google/gemma-3-1b-it
+
+Google
+
+128,000
+
+[Gemma 3 (1B)](https://aimlapi.com/models/gemma-3-1b-api)
+
+togethercomputer/m2-bert-80M-8k-retrieval
+
+TogetherAI
+
+8,000
+
+[M2-BERT-Retrieval-8k](https://aimlapi.com/models/m2-bert-retrieval-8k)
+
+togethercomputer/m2-bert-80M-2k-retrieval
+
+TogetherAI
+
+2,000
+
+[M2-BERT-Retrieval-2K](https://aimlapi.com/models/m2-bert-retrieval-2k)
+
+Gryphe/MythoMax-L2-13b-Lite
+
+Gryphe
+
+4,000
+
+-
+
+mistralai/Mixtral-8x22B-Instruct-v0.1
+
+Mistral AI
+
+64,000
+
+[Mixtral 8x22B Instruct](https://aimlapi.com/models/mixtral-8x22b-instruct)
+
+google/gemini-2.5-pro-exp-03-25
+
+Google
+
+1,000,000
+
+-
+
+google/gemini-2.0-flash-thinking-exp-01
+
+Google
+
+1,000,000
+
+[Gemini 2.0 Flash Thinking Experimental](https://aimlapi.com/models/gemini-2-0-flash-thinking-experimental-api)
+
+ai21/jamba-1-5-mini
+
+AI21 Labs
+
+256,000
+
+[Jamba 1.5 Mini](https://aimlapi.com/models/jamba-1-5-mini-api)
+
+textembedding-gecko@001
+
+Google
+
+3,000
+
+-
+
+google/gemini-pro or gemini-pro
+
+Google
+
+32,000
+
+[Gemini 1.0 Pro](https://aimlapi.com/models/gemini-1-0-pro-api)
+
+meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo-128K
+
+Meta
+
+128,000
+
+-
+
+stabilityai/stable-diffusion-xl-base-1.0
+
+Stability AI
+
+[Stable Diffusion XL 1.0](https://aimlapi.com/models/stable-diffusion-xl-1-0)
+
+upstage/solar-10.7b-instruct-v1.0
+
+Upstage
+
+4,000
+
+[Upstage SOLAR Instruct v1 (11B)](https://aimlapi.com/models/upstage-solar-instruct-v1-11b)
+
+meta-llama/Llama-2-13b-chat-hf
+
+Meta
+
+4,100
+
+[LLaMA-2 Chat (13B)](https://aimlapi.com/models/llama-2-chat-13b)
+
+meta-llama/meta-llama-3-70b-instruct-turbo
+
+Meta
+
+128,000
+
+-
+
+google/gemma-2-9b-it
+
+Google
+
+8,000
+
+[Gemma 2 (9B)](https://aimlapi.com/models/gemma-2-9b)
+
+google/gemma-2b-it
+
+Google
+
+8,000
+
+[Gemma Instruct (2B)](https://aimlapi.com/models/gemma-instruct-2b)
+
+Gryphe/MythoMax-L2-13b
+
+Gryphe
+
+4,000
+
+[MythoMax-L2 (13B)](https://aimlapi.com/models/mythomax-l2-13b)
+
+microsoft/WizardLM-2-8x22B
+
+Microsoft
+
+64,000
+
+[WizardLM 2-8 (22B)](https://aimlapi.com/models/wizardlm-2-8-22b)
+
+Austism/chronos-hermes-13b
+
+Austism
+
+2,000
+
+[Chronos Hermes 13b](https://aimlapi.com/models/chronos-hermes-13b)
+
+databricks/dbrx-instruct
+
+Databricks
+
+32,000
+
+[DBRX Instruct](https://aimlapi.com/models/dbrx-instruct)
+
+deepseek-ai/deepseek-llm-67b-chat
+
+DeepSeek
+
+4,000
+
+[Deepseek-LLM-67b-Chat](https://aimlapi.com/models/deepseek-llm-67b-chat)
+
+deepseek-ai/deepseek-coder-33b-instruct
+
+DeepSeek
+
+16,000
+
+[Deepseek Coder Instruct (33B)](https://aimlapi.com/models/deepseek-coder-instruct-33b)
+
+Meta-Llama/Llama-2-7b-chat-hf
+
+Meta
+
+4,000
+
+[LLaMA-2 Chat (7B)](https://aimlapi.com/models/llama-2-chat-7b)
+
+Meta-Llama/Meta-Llama-3-70B-Instruct-Lite
+
+Meta
+
+8,000
+
+[Llama 3 70B Instruct Lite](https://aimlapi.com/models/llama-3-70b-instruct-lite-api)
+
+Meta-Llama/Llama-Guard-7b
+
+Meta
+
+4,000
+
+[Llama Guard (7B)](https://aimlapi.com/models/llama-guard-7b)
+
+meta-llama/Llama-2-7b-hf
+
+Meta
+
+4,000
+
+[LLaMA-2 (7B)](https://aimlapi.com/models/llama)
+
+meta-llama/Llama-3-8b-hf
+
+Meta
+
+8,000
+
+[Llama-3 (8B)](https://aimlapi.com/models/llama-3-8b)
+
+codellama/CodeLlama-70b-hf
+
+Meta
+
+16,000
+
+[Code Llama (70B)](https://aimlapi.com/models/code-llama-70b)
+
+codellama/CodeLlama-7b-Instruct-hf
+
+Meta
+
+16,000
+
+[Code Llama Instruct (7B)](https://aimlapi.com/models/code-llama-instruct-7b)
+
+codellama/CodeLlama-13b-Instruct-hf
+
+Meta
+
+16,000
+
+[Code Llama Instruct (13B)](https://aimlapi.com/models/code-llama-instruct-13b)
+
+codellama/CodeLlama-70b-Instruct-hf
+
+Meta
+
+4,000
+
+[Code Llama Instruct (70B)](https://aimlapi.com/models/code-llama-instruct-70b)
+
+codellama/CodeLlama-70b-Python-hf
+
+Meta
+
+4,000
+
+[Code Llama Python (70B)](https://aimlapi.com/models/code-llama-python-70b)
+
+mistralai/Mixtral-8x22B-Instruct-v0.1
+
+Mistral AI
+
+64,000
+
+[Mixtral 8x22B Instruct](https://aimlapi.com/models/mixtral-8x22b-instruct)
+
+gpt-3.5-turbo-16k-0613
+
+OpenAI
+
+-
+
+gpt-4-0613
+
+OpenAI
+
+128,000
+
+[Chat GPT 4 Turbo](https://aimlapi.com/models/chat-gpt-4-turbo)
+
+Qwen/Qwen-14B-Chat
+
+Alibaba Cloud
+
+8,000
+
+[Qwen Chat (14B)](https://aimlapi.com/models/qwen-chat-14b)
+
+Qwen/Qwen1.5-0.5B
+
+Alibaba Cloud
+
+32,000
+
+[Qwen 1.5 (0.5B)](https://aimlapi.com/models/qwen-1-5-0-5b)
+
+Qwen/Qwen1.5-1.8B
+
+Alibaba Cloud
+
+32,000
+
+[Qwen 1.5 (1.8B)](https://aimlapi.com/models/qwen-1-5)
+
+Qwen/Qwen1.5-4B
+
+Alibaba Cloud
+
+32,000
+
+[Qwen 1.5 (4B)](https://aimlapi.com/models/qwen-15-4b)
+
+Qwen/Qwen1.5-1.8B-Chat
+
+Alibaba Cloud
+
+32,000
+
+[Qwen 1.5 Chat (1.8B)](https://aimlapi.com/models/qwen-1-5-chat-1-8b)
+
+Qwen/Qwen1.5-4B-Chat
+
+Alibaba Cloud
+
+32,000
+
+[Qwen 1.5 Chat (4B)](https://aimlapi.com/models/qwen-15-chat-4b)
+
+Qwen/Qwen1.5-7B-Chat
+
+Alibaba Cloud
+
+32,000
+
+[Qwen 1.5 Chat (7B)](https://aimlapi.com/models/qwen-1-5-chat-7b)
+
+Qwen/Qwen1.5-14B-Chat
+
+Alibaba Cloud
+
+32,000
+
+[Qwen 1.5 Chat (14B)](https://aimlapi.com/models/qwen-15-chat-14b)
+
+qwen/qvq-72b-preview
+
+Alibaba Cloud
+
+32,000
+
+[QVQ-72B-Preview](https://aimlapi.com/models/qvq-72b-preview-api)
+
+togethercomputer/guanaco-13b
+
+Tim Dettmers
+
+2,000
+
+[Guanaco (13B)](https://aimlapi.com/models/guanaco-13b)
+
+togethercomputer/guanaco-33b
+
+Tim Dettmers
+
+2,000
+
+[Guanaco (33B)](https://aimlapi.com/models/guanaco-33b)
+
+togethercomputer/guanaco-65b
+
+Tim Dettmers
+
+2,000
+
+[Guanaco (65B)](https://aimlapi.com/models/guanaco-65b)
+
+togethercomputer/mpt-7b-chat
+
+Mosaic ML
+
+2,000
+
+[MPT-Chat (7B)](https://aimlapi.com/models/mpt-chat-7b)
+
+togethercomputer/mpt-30b-chat
+
+Mosaic ML
+
+8,000
+
+[MPT-Chat (30B)](https://aimlapi.com/models/mpt-chat-30b)
+
+togethercomputer/RedPajama-INCITE-7B-Instruct
+
+RedPajama
+
+2,000
+
+[RedPajama-INCITE Instruct (7B)](https://hidden.aimlapi.com/models/redpajama-incite-instruct-7b)
+
+prompthero/openjourney
+
+PromptHero
+
+77
+
+[Openjourney v4](https://aimlapi.com/models/openjourney-v4)
+
+wavymulder/Analog-Diffusion
+
+wavymulder
+
+77
+
+[Analog Diffusion](https://aimlapi.com/models/analog-diffusion)
+
+-
+
+01.AI
+
+4,000
+
+[01-ai Yi Base (6B)](https://aimlapi.com/models/01-ai-yi-base-6b)
+
+Undi95/Toppy-M-7B
+
+Undi95
+
+4,000
+
+[Toppy M (7B)](https://aimlapi.com/models/toppy-m-7b)
+
+SG161222/Realistic_Vision_V3.0_VAE
+
+Together
+
+77
+
+[Realistic Vision 3.0](https://aimlapi.com/models/realistic-vision-3-0)
+
+tiiuae/falcon-40b
+
+TII
+
+2,000
+
+[Falcon (40B)](https://aimlapi.com/models/falcon-40b)
+
+allenai/OLMo-7B
+
+Allen Institute for AI
+
+2,000
+
+[OLMo-7B](https://aimlapi.com/models/olmo-7b)
+
+bigcode/starcoder
+
+BigCode
+
+8,000
+
+[StarCoder (16B)](https://aimlapi.com/models/starcoder)
+
+HuggingFaceH4/starchat-alpha
+
+Hugging Face
+
+8,000
+
+[StarCoderChat Alpha (16B)](https://aimlapi.com/models/starcoderchat-alpha-16b)
+
+NousResearch/Nous-Hermes-Llama2-70b
+
+NousResearch
+
+4,000
+
+[Nous Hermes LLaMA-2 (70B)](https://aimlapi.com/models/nous-hermes-llama-2-70b)
+
+NousResearch/Nous-Hermes-2-Mixtral-8x7B-SFT
+
+NousResearch
+
+32,000
+
+[Nous Hermes 2 - Mixtral 8x7B-SFT](https://aimlapi.com/models/nous-hermes-2-mixtral-8x7b-sft)
+
+NousResearch/Nous-Hermes-2-Mistral-7B-DPO
+
+NousResearch
+
+32,000
+
+[Nous Hermes 2 - Mistral DPO (7B)](https://aimlapi.com/models/nous-hermes-2-mistral-dpo-7b)
+
+NousResearch/Hermes-2-Theta-Llama-3-70B
+
+NousResearch
+
+8,000
+
+[Hermes 2 Theta Llama-3 70B](https://aimlapi.com/models/hermes-2-theta-llama-3-70b-api)
+
+defog/sqlcoder
+
+Defog AI
+
+8,000
+
+[SQLCoder (15B)](https://aimlapi.com/models/sqlcoder)
+
+replit/replit-code-v1-3b
+
+Replit
+
+2,000
+
+[Replit-Code-v1 (3B)](https://aimlapi.com/models/replit-code-v1-3b)
+
+lmsys/vicuna-13b-v1.5
+
+Imsys
+
+4,000
+
+[Vicuna v1.5 (13B)](https://aimlapi.com/models/vicuna-v1-5-13b)
+
+microsoft/phi-2
+
+Microsoft
+
+2,000
+
+[Microsoft Phi-2](https://aimlapi.com/models/microsoft-phi-2)
+
+stabilityai/stablelm-base-alpha-3b
+
+StabilityAI
+
+4,000
+
+[StableLM Base Alpha 3B](https://aimlapi.com/models/stablelm-base-alpha-3b)
+
+runwayml/stable-diffusion-v1-5
+
+StabilityAI
+
+77
+
+[Stable Diffusion 1.5](https://aimlapi.com/models/stable-diffusion)
+
+stabilityai/stable-diffusion-2-1
+
+StabilityAI
+
+77
+
+[Stable Diffusion 2.1](https://aimlapi.com/models/stable-diffusion-21)
+
+teknium/OpenHermes-2p5-Mistral-7B
+
+Teknium
+
+8,000
+
+[OpenHermes-2.5-Mistral (7B)](https://aimlapi.com/models/openhermes-25-mistral-7b)
+
+openchat/openchat-3.5-1210
+
+OpenChat
+
+8,000
+
+[OpenChat 3.5 (7B)](https://aimlapi.com/models/openchat-3-5)
+
+DiscoResearch/DiscoLM-mixtral-8x7b-v2
+
+Disco Research
+
+32,000
+
+[DiscoLM Mixtral 8x7b (46.7B)](https://aimlapi.com/models/discolm-mixtral-8x7b-46-7b)
+
+google/flan-t5-xl
+
+Google
+
+512
+
+[FLAN T5 XL (3B)](https://aimlapi.com/models/flan-t5)
+
+garage-bAInd/Platypus2-70B-instruct
+
+Garage-bAInd
+
+4,000
+
+[Platypus2-70B-Instruct](https://aimlapi.com/models/platypus2-70b-instruct)
+
+EleutherAI/gpt-neox-20b
+
+EleutherAI
+
+2,000
+
+[GPT Neox 20B](https://aimlapi.com/models/gpt-neox-20b)
+
+gradientai/Llama-3-70B-Instruct-Gradient-1048k
+
+Gradient
+
+1,048,000
+
+[Llama-3 70B Gradient Instruct 1048k](https://aimlapi.com/models/llama-3-70b-gradient-instruct-1048k-api)
+
+WhereIsAI/UAE-Large-V1
+
+WhereIsAI
+
+512
+
+[UAE-Large-V1](https://aimlapi.com/models/uae-large-v1)
+
+zero-one-ai/Yi-34B-Chat
+
+01.AI
+
+4,000
+
+[Yi-34B-Chat](https://aimlapi.com/models/yi-34b-chat)
+
+meta-llama/Meta-Llama-3.1-70B-Reference
+
+Meta
+
+32,000
+
+–
+
+meta-llama/Meta-Llama-3.1-8B-Reference
+
+Meta
+
+32,000
+
+–
+
+EleutherAI/llemma_7b
+
+EleutherAI
+
+32,000
+
+–
+
+huggyllama/llama-30b
+
+Huggyllama
+
+32,000
+
+–
+
+huggyllama/llama-13b
+
+Huggyllama
+
+32,000
+
+–
+
+togethercomputer/llama-2-70b
+
+TogetherAI
+
+32,000
+
+–
+
+togethercomputer/llama-2-13b
+
+TogetherAI
+
+32,000
+
+–
+
+huggyllama/llama-65b
+
+Huggyllama
+
+32,000
+
+–
+
+WizardLM/WizardLM-70B-V1.0
+
+WizardLM
+
+32,000
+
+–
+
+huggyllama/llama-7b
+
+Huggyllama
+
+32,000
+
+–
+
+togethercomputer/llama-2-7b
+
+TogetherAI
+
+32,000
+
+–
+
+NousResearch/Nous-Hermes-13b
+
+NousResearch
+
+2,000
+
+–
+
+mistralai/Mistral-7B-v0.1
+
+Mistral AI
+
+32,000
+
+[​Mixtral 7B](https://aimlapi.com/models/llm-chat-api)
+
+mistralai/Mixtral-8x7B-v0.1
+
+Mistral AI
+
+32,000
+
+[Mixtral-8x7B Instruct v0.1](https://aimlapi.com/models/mixtral-8x7b-instruct-v01)
+
+-
+
+Suno AI
+
+32
+
+[Suno AI](https://aimlapi.com/models/suno-ai)
