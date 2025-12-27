@@ -111,10 +111,10 @@
   Model_link: https://aimlapi.com/models/gpt-5-2
 - AI_model: openai/gpt-5-2-chat-latest
   Token_limit: 400000
-  Model_link: _Coming Soon_
+  Model_link: https://docs.aimlapi.com/api-references/text-models-llm/openai/gpt-5.2-chat-latest
 - AI_model: openai/gpt-5-2-pro
   Token_limit: 400000
-  Model_link: _Coming Soon_
+  Model_link: https://docs.aimlapi.com/api-references/text-models-llm/openai/gpt-5.2-pro
 - AI_model: claude-3-opus-20240229
   Token_limit: 200000
   Model_link: https://aimlapi.com/models/claude-3-opus
@@ -228,7 +228,7 @@
   Model_link: https://aimlapi.com/models/gemini-2-0-flash-api
 - AI_model: google/gemini-2.5-flash-lite-preview
   Token_limit: 1000000
-  Model_link: –
+  Model_link: https://docs.aimlapi.com/api-references/text-models-llm/google/gemini-2.5-flash-lite-preview
 - AI_model: google/gemini-2.5-flash
   Token_limit: 1000000
   Model_link: https://aimlapi.com/models/gemini-2-5-flash-api
@@ -321,7 +321,7 @@
   Model_link: https://aimlapi.com/models/minimax-m2
 - AI_model: minimax/m2-1
   Token_limit: 204800
-  Model_link: _Coming Soon_
+  Model_link: https://docs.aimlapi.com/api-references/text-models-llm/minimax/m2-1
 - AI_model: moonshot/kimi-k2-preview
   Token_limit: 131000
   Model_link: https://aimlapi.com/models/kimi-k2
@@ -333,7 +333,7 @@
   Model_link: https://aimlapi.com/models/kimi-k2-turbo-preview
 - AI_model: nousresearch/hermes-4-405b
   Token_limit: 131000
-  Model_link: _-_
+  Model_link: https://docs.aimlapi.com/api-references/text-models-llm/nousresearch/hermes-4-405b
 - AI_model: perplexity/sonar
   Token_limit: 128000
   Model_link: https://aimlapi.com/models/perplexity-sonar
@@ -375,7 +375,7 @@
   Model_link: https://docs.aimlapi.com/api-references/text-models-llm/zhipu/glm-4.6
 - AI_model: zhipu/glm-4.7
   Token_limit: 200000
-  Model_link: _Coming Soon_
+  Model_link: https://docs.aimlapi.com/api-references/text-models-llm/zhipu/glm-4.7
 - AI_model: meta-llama/Llama-Guard-3-11B-Vision-Turbo
   Token_limit: 128000
   Model_link: https://docs.aimlapi.com/api-references/moderation-safety-models/meta/llama-guard-3-11b-vision-turbo

@@ -21,6 +21,8 @@ def parse_model_data(filename):
         # Look for model ID pattern [model_id](api_reference_link)
         model_match = re.match(r'\[(.*?)\]\((.*?)\)', line)
         
+        # Expected structure: model_id line, empty line, developer, empty line, token_limit, empty line, model_card
+        # That's 7 lines total, but we check for 5 more lines ahead from current position
         if model_match and i + 5 < len(lines):
             model_id = model_match.group(1)
             api_reference = model_match.group(2)
@@ -67,8 +69,11 @@ def parse_model_data(filename):
             if model_card_match:
                 model_card_link = model_card_match.group(2)
             else:
-                # If no link pattern, use the raw text
-                model_card_link = model_card_line if model_card_line and model_card_line != '-' else None
+                # Normalize placeholder values to None for consistency
+                if model_card_line in ['-', '_-_', '–', '_Coming Soon_', '']:
+                    model_card_link = None
+                else:
+                    model_card_link = model_card_line
             
             # Only add models with valid data and skip image/video/speech models section
             if developer and token_limit and model_id:
